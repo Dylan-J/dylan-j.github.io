@@ -1,0 +1,6492 @@
+[
+  {
+    "Product": "1Password Audit Events",
+    "IngestLabel": "ONEPASSWORD_AUDIT_EVENTS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "3Com 8800 Series Switch",
+    "IngestLabel": "IBM_3COM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "A10 Load Balancer",
+    "IngestLabel": "A10_LOAD_BALANCER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Abnormal Security",
+    "IngestLabel": "ABNORMAL_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Accops Hysecure VPN",
+    "IngestLabel": "ACCOPS_HYSECURE_VPN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Acquia Cloud Platform",
+    "IngestLabel": "ACQUIA_CLOUD_PLATFORM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Acronis Backup",
+    "IngestLabel": "ACRONIS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Admin by request PAM",
+    "IngestLabel": "ADMIN_BY_REQUEST",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Adobe Commerce",
+    "IngestLabel": "ADOBE_COMMERCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Adobe Experience Manager",
+    "IngestLabel": "ADOBE_EXPERIENCE_MANAGER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ADTRAN NetVanta router",
+    "IngestLabel": "ADTRAN_NETVANTA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ADVA Fiber Service Platform",
+    "IngestLabel": "ADVA_FSP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Advanced Intrusion Detection Environment",
+    "IngestLabel": "AIDE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Agari Phishing Defense",
+    "IngestLabel": "AGARI_PHISHING_DEFENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Akamai DHCP",
+    "IngestLabel": "AKAMAI_DHCP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Akamai Enterprise Threat Protector",
+    "IngestLabel": "AKAMAI_ETP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Akamai Prolexic",
+    "IngestLabel": "AKAMAI_DDOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Akamai SIEM Connector",
+    "IngestLabel": "AKAMAI_SIEM_CONNECTOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AlertLogic Notifications",
+    "IngestLabel": "ALERTLOGIC_NOTIFICATIONS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AlienVault Open Threat Exchange",
+    "IngestLabel": "ALIENVAULT_OTX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Allot NetEnforcer",
+    "IngestLabel": "ALLOT_NETENFORCER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Alveo Risk Data Management",
+    "IngestLabel": "ALVEO_RDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Amazon ElastiCache",
+    "IngestLabel": "AWS_ELASTI_CACHE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Apache Kafka Audit",
+    "IngestLabel": "APACHE_KAFKA_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Apache SpamAssassin",
+    "IngestLabel": "APACHE_SPAMASSASSIN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "APC Automatic Transfer Switch",
+    "IngestLabel": "APC_ATS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "APC Netbotz",
+    "IngestLabel": "APC_NETBOTZ",
+    "Parsed": "No"
+  },
+  {
+    "Product": "APC Power Distribution Unit",
+    "IngestLabel": "APC_PDU",
+    "Parsed": "No"
+  },
+  {
+    "Product": "APC Smart-UPS",
+    "IngestLabel": "APC_SMART_UPS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "APC StruxureWare Portal",
+    "IngestLabel": "APC_STRUXUREWARE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Apiiro Cloud Application Security Platform",
+    "IngestLabel": "APIIRO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Appgate Software-defined Perimeter",
+    "IngestLabel": "APPGATE_SDP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Appian Cloud",
+    "IngestLabel": "APPIAN_CLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AppViewX",
+    "IngestLabel": "APPVIEWX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Aptos Enterprise Order Management",
+    "IngestLabel": "APTOS_EOM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Argo CD",
+    "IngestLabel": "ARGO_CD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Argo Workflows",
+    "IngestLabel": "ARGO_WORKFLOWS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Arista NDR",
+    "IngestLabel": "ARISTA_NDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Arkime Packet Capture",
+    "IngestLabel": "ARKIME_PCAP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Armis",
+    "IngestLabel": "ARMIS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Armor Anywhere",
+    "IngestLabel": "ARMOR_ANYWHERE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Armorblox Email Security",
+    "IngestLabel": "ARMORBLOX_ESC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Array Networks SSL VPN",
+    "IngestLabel": "ARRAYNETWORKS_VPN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Array Networks WAF",
+    "IngestLabel": "ARRAY_NETWORKS_WAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Arxan Threat Analytics",
+    "IngestLabel": "ARXAN_THREAT_ANALYTICS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Asana",
+    "IngestLabel": "ASANA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AssetNote",
+    "IngestLabel": "ASSETNOTE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AT&T Netbond",
+    "IngestLabel": "ATT_NETBOND",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Atlassian Cloud Admin Audit",
+    "IngestLabel": "ATLASSIAN_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Atlassian Jira Confluence Json",
+    "IngestLabel": "ATLASSIAN_CONFLUENCE_JSON",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Atlassian Jira Json",
+    "IngestLabel": "ATLASSIAN_JIRA_JSON",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Authentic8 Silo",
+    "IngestLabel": "AUTHENTIC8_SILO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Authx Identity Management",
+    "IngestLabel": "AUTHX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Authx User Context",
+    "IngestLabel": "AUTHX_USER_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Automox",
+    "IngestLabel": "AUTOMOX_EPM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Avast Business",
+    "IngestLabel": "AVAST_HUB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Avaya Interactive Voice Response",
+    "IngestLabel": "AVAYA_IVR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Avaya Session Border Controller",
+    "IngestLabel": "AVAYA_BORDER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Avaya VSP Switch",
+    "IngestLabel": "AVAYA_VSP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Avaya Wireless",
+    "IngestLabel": "AVAYA_WIRELESS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Aviatrix Cloud Network Platform",
+    "IngestLabel": "AVIATRIX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Awake NDR",
+    "IngestLabel": "AWAKE_NDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Aurora",
+    "IngestLabel": "AWS_AURORA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Dynamo DB",
+    "IngestLabel": "AWS_DYNAMO_DB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS EMR",
+    "IngestLabel": "AWS_EMR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Identity and Access Management (IAM)",
+    "IngestLabel": "AWS_IAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Inspector",
+    "IngestLabel": "AWS_INSPECTOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Inspector2",
+    "IngestLabel": "AWS_INSPECTOR2",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS NGINX",
+    "IngestLabel": "AWS_NGINX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Redshift",
+    "IngestLabel": "AWS_REDSHIFT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS Simple Email Service",
+    "IngestLabel": "AWS_SES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "AWS VPN",
+    "IngestLabel": "AWS_VPN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Axis Atmos",
+    "IngestLabel": "AXIS_ATMOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Axis Security Audit",
+    "IngestLabel": "AXIS_OS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Axonius Cybersecurity Asset Management",
+    "IngestLabel": "AXONIUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure AD Provisioning",
+    "IngestLabel": "AZURE_AD_PROVISIONING",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure AD Sign-In",
+    "IngestLabel": "AZURE_AD_SIGNIN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure API Management",
+    "IngestLabel": "AZURE_API_MANAGEMENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure App Service",
+    "IngestLabel": "AZURE_APP_SERVICE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure Application Gateway",
+    "IngestLabel": "AZURE_GATEWAY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure ATP",
+    "IngestLabel": "AZURE_ATP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure Bastion",
+    "IngestLabel": "AZURE_BASTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure Key Vault logging",
+    "IngestLabel": "AZURE_KEYVAULT_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure Security Center",
+    "IngestLabel": "AZURE_SECURITY_CENTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Azure Storage Audit",
+    "IngestLabel": "AZURE_STORAGE_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BambooHR",
+    "IngestLabel": "BAMBOO_HR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Barracuda CloudGen Access",
+    "IngestLabel": "BARRACUDA_CLOUDGEN_ACCESS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Barracuda Content Shield",
+    "IngestLabel": "BARRACUDA_SHIELD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Barracuda Impersonation Protection",
+    "IngestLabel": "BARRACUDA_IMPERSONATION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Bettercloud",
+    "IngestLabel": "BETTERCLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Beyond Identity",
+    "IngestLabel": "BEYOND_IDENTITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BeyondTrust BeyondInsight",
+    "IngestLabel": "BEYONDTRUST_BEYONDINSIGHT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BeyondTrust Cloud Privilege Broker",
+    "IngestLabel": "BEYONDTRUST_CPB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BeyondTrust Endpoint Privilege Management",
+    "IngestLabel": "BEYONDTRUST_ENDPOINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BeyondTrust Management console",
+    "IngestLabel": "BEYONDTRUST_MC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Bitwarden Events",
+    "IngestLabel": "BITWARDEN_EVENTS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Blue Prism",
+    "IngestLabel": "BLUE_PRISM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Bluecat Address Manager",
+    "IngestLabel": "BLUECAT_AM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BMC AMI Defender",
+    "IngestLabel": "BMC_AMI_DEFENDER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BMC Client Management",
+    "IngestLabel": "BMC_CLIENT_MANAGEMENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BMC Control-M",
+    "IngestLabel": "BMC_CONTROL_M",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Bricata NDR",
+    "IngestLabel": "BRICATA_NDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Britive Audit API",
+    "IngestLabel": "BRITIVE_AUDIT_API",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BRIVO",
+    "IngestLabel": "BRIVO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Broadcom Compliance Event Manager",
+    "IngestLabel": "BROADCOM_CEM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Broadcom Support Portal Audit Logs",
+    "IngestLabel": "BROADCOM_SUPPORT_PORTAL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Brocade Fabric OS",
+    "IngestLabel": "BROCADE_FOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Brocade SANnav Management Portal",
+    "IngestLabel": "BROCADE_SANNAV",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Brocade Switch",
+    "IngestLabel": "BROCADE_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "BT IPControl",
+    "IngestLabel": "BT_IPCONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Burpsuite Application Security testing tool",
+    "IngestLabel": "BURPSUITE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CA Privileged Access Manager",
+    "IngestLabel": "BROADCOM_CA_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cameyo Bring Your Own Cloud",
+    "IngestLabel": "CAMEYO_BYO_CLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Canary Audit Trail",
+    "IngestLabel": "CANARY_AUDIT_TRAIL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CATO SD-WAN",
+    "IngestLabel": "CATO_SDWAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Censornet CASB",
+    "IngestLabel": "CENSORNET_CASB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CENSYS",
+    "IngestLabel": "CENSYS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cequence Bot Defense",
+    "IngestLabel": "CEQUENCE_BOT_DEFENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cerberus FTP Server",
+    "IngestLabel": "CERBERUS_FTP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Check Point CloudGuard",
+    "IngestLabel": "CHECKPOINT_CLOUDGUARD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Check Point Email",
+    "IngestLabel": "CHECKPOINT_EMAIL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Check Point Harmony",
+    "IngestLabel": "CHECKPOINT_HARMONY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Checkpoint SmartDefense",
+    "IngestLabel": "CHECKPOINT_SMARTDEFENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cilium",
+    "IngestLabel": "CILIUM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Aironet",
+    "IngestLabel": "CISCO_AIRONET",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco APIC",
+    "IngestLabel": "CISCO_APIC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Call Manager",
+    "IngestLabel": "CISCO_CALL_MANAGER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Content Security Management Appliance",
+    "IngestLabel": "CISCO_SMA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco DNA Center Platform",
+    "IngestLabel": "CISCO_DNAC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco DNS",
+    "IngestLabel": "CISCO_DNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Meraki Camera",
+    "IngestLabel": "CISCO_MERAKI_CAMERA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Secure Malware Analytics",
+    "IngestLabel": "CISCO_SECURE_MALWARE_ANALYTICS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Secure Workload",
+    "IngestLabel": "CISCO_SECURE_WORKLOAD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco SNMP Trapd",
+    "IngestLabel": "CISCO_SNMP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco Unity Connection",
+    "IngestLabel": "CISCO_UNITY_CONNECTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco vManage SD-WAN",
+    "IngestLabel": "CISCO_SDWAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cisco WSA",
+    "IngestLabel": "CISCO_WSA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CiscoXDR",
+    "IngestLabel": "CISCO_XDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix Analytics",
+    "IngestLabel": "CITRIX_ANALYTICS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix Netscaler Web Logs",
+    "IngestLabel": "CITRIX_NETSCALER_WEB_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix SD-WAN",
+    "IngestLabel": "CITRIX_SDWAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix Session Metadata",
+    "IngestLabel": "CITRIX_SESSION_METADATA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix Virtual Desktop Infrastructure",
+    "IngestLabel": "CITRIX_VDI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix WAF",
+    "IngestLabel": "CITRIX_WAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix Web Gateway",
+    "IngestLabel": "CITRIX_WEB_GATEWAY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix Workspace",
+    "IngestLabel": "CITRIX_WORKSPACE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Citrix XenCenter",
+    "IngestLabel": "CITRIX_XENCENTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Claroty Continuous Threat Detection",
+    "IngestLabel": "CLAROTY_CTD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Claroty Enterprise Management Console",
+    "IngestLabel": "CLAROTY_EMC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Clearsense Healthcare Analytics",
+    "IngestLabel": "CLEARSENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Clearswift",
+    "IngestLabel": "CLEARSWIFT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Click Studios Passwordstate",
+    "IngestLabel": "CLICK_STUDIOS_PASSWORDSTATE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cloud Passage (CSM)",
+    "IngestLabel": "CLOUDPASSAGE_CSM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cloud Passage (FIM)",
+    "IngestLabel": "CLOUDPASSAGE_FIM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cloud Passage (LIDS)",
+    "IngestLabel": "CLOUDPASSAGE_LIDS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cloud Passage (SVM)",
+    "IngestLabel": "CLOUDPASSAGE_SVM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CloudBolt",
+    "IngestLabel": "CLOUDBOLT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cloudflare Bot Management",
+    "IngestLabel": "CLOUDFLARE_BOT_MANAGEMENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "cmd.com",
+    "IngestLabel": "CMD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cockroach DB",
+    "IngestLabel": "COCKROACH_DB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Code Worldwide",
+    "IngestLabel": "CODE_WORLDWIDE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Code42 CrashPlan",
+    "IngestLabel": "CODE42",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Code42 Incydr",
+    "IngestLabel": "CODE42_INCYDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cofense Vision",
+    "IngestLabel": "COFENSE_VISION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cohesity",
+    "IngestLabel": "COHESITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cohesity Smartfiles",
+    "IngestLabel": "COHESITY_SMARTFILES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CommVault",
+    "IngestLabel": "COMMVAULT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CommVault Commcell",
+    "IngestLabel": "COMMVAULT_COMMCELL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Commvault Metallic",
+    "IngestLabel": "COMMVAULT_METALLIC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Confluent Audit",
+    "IngestLabel": "CONFLUENT_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Connectsecure",
+    "IngestLabel": "CYBERCNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ConnectWise Automate",
+    "IngestLabel": "CONNECTWISE_AUTOMATE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ConnectWise Control",
+    "IngestLabel": "CONNECTWISE_CONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cradlepoint NetCloud",
+    "IngestLabel": "CRADLEPOINT_NETCLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cribl AppScope",
+    "IngestLabel": "CRIBL_APPSCOPE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cribl Cloud",
+    "IngestLabel": "CRIBL_CLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cribl Edge",
+    "IngestLabel": "CRIBL_EDGE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cribl Search",
+    "IngestLabel": "CRIBL_SEARCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cribl Stream",
+    "IngestLabel": "CRIBL_STREAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CrowdStrike Falcon CEF",
+    "IngestLabel": "CS_CEF_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CSG Custom Rules Engine",
+    "IngestLabel": "CSG_CUSTOMENGINE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CSG Singleview",
+    "IngestLabel": "CSG_SINGLEVIEW",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CSV Custom CMDB",
+    "IngestLabel": "CSV_CUSTOM_CMDB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CTERA Drive",
+    "IngestLabel": "CTERA_DRIVE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Culture AI",
+    "IngestLabel": "CULTURE_AI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Custom Application Access Logs",
+    "IngestLabel": "CUSTOM_APPLICATION_ACCESS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Custom Host Forensics",
+    "IngestLabel": "CUSTOM_HOST_FORENSICS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Customer Alerts",
+    "IngestLabel": "CUSTOMER_ALERT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CWT SatoTravel",
+    "IngestLabel": "E2_SOLUTIONS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CyberArk Identity Single Sign-On",
+    "IngestLabel": "CYBERARK_SSO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cyberark Privilege Cloud",
+    "IngestLabel": "CYBERARK_PRIVILEGE_CLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "CyberArk Privileged Access Manager (PAM)",
+    "IngestLabel": "CYBERARK_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cyberhaven",
+    "IngestLabel": "CYBERHAVEN_EVENTS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cyberhaven Data Detection and Response",
+    "IngestLabel": "CYBERHAVEN_DDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cyberint",
+    "IngestLabel": "CYBERINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cycode Platform",
+    "IngestLabel": "CYCODE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cylance",
+    "IngestLabel": "CYLANCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cynet 360 AutoXDR",
+    "IngestLabel": "CYNET_360_AUTOXDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Cyolo Zero Trust",
+    "IngestLabel": "CYOLO_ZTNA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "D3 Security",
+    "IngestLabel": "D3_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Databricks",
+    "IngestLabel": "DATABRICKS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "DataLocker SafeConsole",
+    "IngestLabel": "DATALOCKER_SAFECONSOLE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Datasunrise Dam",
+    "IngestLabel": "DATASUNRISE_DAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Datawatch",
+    "IngestLabel": "DATAWATCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Deepfence Network Monitoring",
+    "IngestLabel": "DEEPFENCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Delinea PAM",
+    "IngestLabel": "DELINEA_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Delinea Privilege Manager",
+    "IngestLabel": "DELINEA_PRIVILEGE_MANAGER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Delinea Secret Server",
+    "IngestLabel": "DELINEA_SECRET_SERVER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Delinea Server Suite",
+    "IngestLabel": "DELINEA_SERVER_SUITE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell Cyber Recovery Manager",
+    "IngestLabel": "DELL_CRM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell CyberSense",
+    "IngestLabel": "DELL_CYBERSENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell EMC Avamar",
+    "IngestLabel": "DELL_EMC_AVAMAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell EMC Cloudlink",
+    "IngestLabel": "DELL_EMC_CLOUDLINK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell EMC PowerStore",
+    "IngestLabel": "DELL_EMC_POWERSTORE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell EMC Unity",
+    "IngestLabel": "DELL_EMC_UNITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell iDRAC",
+    "IngestLabel": "IDRAC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell SonicWALL WAF",
+    "IngestLabel": "DELL_WAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dell Switch",
+    "IngestLabel": "DELL_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Design Profit Central Server",
+    "IngestLabel": "DESIGN_PROFIT_CENTRAL_SERVER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Device 42",
+    "IngestLabel": "DEVICE_42",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Devolutions Remote Desktop Manager",
+    "IngestLabel": "DEVOLUTIONS_RDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Digital Defense Frontline VM",
+    "IngestLabel": "FRONTLINE_VM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Divvy Cloud",
+    "IngestLabel": "DIVVY_CLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "DNSFilter",
+    "IngestLabel": "DNSFILTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Docker",
+    "IngestLabel": "DOCKER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Domain Tools Phisheye",
+    "IngestLabel": "PHISHEYE_ALERT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "DOMO Business Cloud",
+    "IngestLabel": "DOMO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dragos",
+    "IngestLabel": "DRAGOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Draytek Firewall",
+    "IngestLabel": "DRAYTEK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dremio Data Lakehouse",
+    "IngestLabel": "DREMIO_DATA_LAKEHOUSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dropbox",
+    "IngestLabel": "DROPBOX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Drupal Logging",
+    "IngestLabel": "DRUPAL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "DSP Toolkit audit",
+    "IngestLabel": "DSP_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Duo Access Gateway",
+    "IngestLabel": "DUO_CASB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Duo Network Gateway",
+    "IngestLabel": "DUO_NETWORK_GATEWAY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Dynatrace",
+    "IngestLabel": "DYNATRACE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "E-Share platform",
+    "IngestLabel": "ESHARE_PLATFORM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Eaton UPS",
+    "IngestLabel": "EATON_UPS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "eCAR",
+    "IngestLabel": "ECAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "eCAR Bro",
+    "IngestLabel": "ECAR_BRO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "EclecticIQ EDR",
+    "IngestLabel": "EIQ_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Edgio CDN",
+    "IngestLabel": "EDGIO_CDN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Edgio Rate Limiting",
+    "IngestLabel": "EDGIO_RL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Edgio WAF",
+    "IngestLabel": "EDGIO_WAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Efax",
+    "IngestLabel": "EFAX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Egnyte",
+    "IngestLabel": "EGNYTE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Elastic File Beats",
+    "IngestLabel": "ELASTIC_FILEBEAT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Elastic Metric Beats",
+    "IngestLabel": "ELASTIC_METRICBEAT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Elastic Search",
+    "IngestLabel": "ELASTIC_SEARCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Emerson Smart Firewall",
+    "IngestLabel": "EMERSON_FIREWALL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Endgame",
+    "IngestLabel": "ENDGAME_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Entrust nShield HSM",
+    "IngestLabel": "ENTRUST_HSM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Entrust NTP Server",
+    "IngestLabel": "ENTRUST_NTP_SERVER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Entrust Secrets Vault",
+    "IngestLabel": "ENTRUST_SECRETS_VAULT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Erlang Shell Logs",
+    "IngestLabel": "ERLANG_SHELL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ermes Web Protection",
+    "IngestLabel": "ERMES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ermetic",
+    "IngestLabel": "ERMETIC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Estar",
+    "IngestLabel": "ESTAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ETQ Reliance",
+    "IngestLabel": "ETQ_RELIANCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Evision FircoSoft",
+    "IngestLabel": "EVISION_FIRCOSOFT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Exabeam Fusion XDR",
+    "IngestLabel": "EXABEAM_FUSION_XDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ExtraHop DHCP",
+    "IngestLabel": "EXTRAHOP_DHCP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Extreme Management Center",
+    "IngestLabel": "EXTREME_MANAGEMENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Extreme Networks AirDefense",
+    "IngestLabel": "AIRDEFENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Extreme Networks Switch",
+    "IngestLabel": "EXTREME_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ExtremeWare Operating System (OS)",
+    "IngestLabel": "EXTREMEWARE_NETWORKS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "F5 Bot",
+    "IngestLabel": "F5_BOT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "F5 IP Intelligence",
+    "IngestLabel": "F5_IP_INTELLIGENCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "F5 Silverline",
+    "IngestLabel": "F5_SILVERLINE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fail2Ban Scan",
+    "IngestLabel": "FAIL2BAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Feenics Access Control",
+    "IngestLabel": "FEENICS_ACCESS_CONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fidelis Endpoint",
+    "IngestLabel": "FIDELIS_ENDPOINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "FileMage SFTP",
+    "IngestLabel": "FILEMAGE_SFTP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Firebase",
+    "IngestLabel": "FIREBASE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fireeye eMPS",
+    "IngestLabel": "FIREEYE_EMPS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "FireEye Helix",
+    "IngestLabel": "FIREEYE_HELIX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "FireMon Firewall",
+    "IngestLabel": "FIREMON_FIREWALL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fivetran",
+    "IngestLabel": "FIVETRAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Flashpoint IOC",
+    "IngestLabel": "FLASHPOINT_IOC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fleet DM",
+    "IngestLabel": "FLEET_DM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Forcepoint Email Security",
+    "IngestLabel": "FORCEPOINT_EMAILSECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Forcepoint Insider Threat",
+    "IngestLabel": "FORCEPOINT_FIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Forcepoint V Series",
+    "IngestLabel": "FORCEPOINT_VSERIES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortanix Data Security Manager",
+    "IngestLabel": "FORTANIX_DSM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortinet FortiAuthenticator",
+    "IngestLabel": "FORTINET_FORTIAUTHENTICATOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortinet FortiClient",
+    "IngestLabel": "FORTINET_FORTICLIENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortinet FortiSandbox",
+    "IngestLabel": "FORTINET_SANDBOX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortinet Proxy",
+    "IngestLabel": "FORTINET_WEBPROXY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortinet Switch",
+    "IngestLabel": "FORTINET_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fortinet Wireless Access Point",
+    "IngestLabel": "FORTINET_AP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Foundry Fastiron",
+    "IngestLabel": "FOUNDRY_FASTIRON",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Fox-IT",
+    "IngestLabel": "FOX_IT_STIX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "FreeIPA",
+    "IngestLabel": "FREEIPA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "FreeRADIUS",
+    "IngestLabel": "FREERADIUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Futurex HSM",
+    "IngestLabel": "FUTUREX_HSM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GCP Artifact Registry",
+    "IngestLabel": "GCP_ARTIFACT_REGISTRY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GCP Google Kubernetes Container Security",
+    "IngestLabel": "GCP_KUBERNETES_CONTAINER_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GCP Google Kubernetes Engine Context",
+    "IngestLabel": "GCP_KUBERNETES_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GCP Threat Detection",
+    "IngestLabel": "GCP_THREAT_DETECTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Gigamon",
+    "IngestLabel": "GIGAMON",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Gigya CIAM",
+    "IngestLabel": "GIGYA_CIAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GitGuardian Enterprise",
+    "IngestLabel": "GITGUARDIAN_ENTERPRISE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Globalscape SFTP",
+    "IngestLabel": "GLOBALSCAPE_SFTP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GlusterFS",
+    "IngestLabel": "GLUSTER_FS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GMV Checker User Context",
+    "IngestLabel": "GMV_CHECKER_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GoAnywhere MFT",
+    "IngestLabel": "GOANYWHERE_MFT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GoDaddy DNS",
+    "IngestLabel": "GODADDY_DNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GoldiLock",
+    "IngestLabel": "GOLDILOCK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GrayhatWarfare",
+    "IngestLabel": "GRAYHATWARFARE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Graylog Operations",
+    "IngestLabel": "GRAYLOG",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GreatHorn Email Security",
+    "IngestLabel": "GREATHORN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GreyNoise",
+    "IngestLabel": "GREYNOISE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "GTB Technologies DLP",
+    "IngestLabel": "GTB_DLP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "H3C Comware Platform Switch",
+    "IngestLabel": "H3C_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HaProxy LoadBalancer",
+    "IngestLabel": "HAPROXY_LOADBALANCER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Harbor",
+    "IngestLabel": "HARBOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Hewlett Packard Enterprise SAN",
+    "IngestLabel": "HPE_SAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Hirschmann Switch",
+    "IngestLabel": "HIRSCHMANN_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Hitachi PAM",
+    "IngestLabel": "HITACHI_ID_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Honeywell Pro-Watch",
+    "IngestLabel": "PROWATCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Hornet Email Security",
+    "IngestLabel": "HORNET_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HP Printer logs",
+    "IngestLabel": "HP_PRINTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HP Wolf Pro Security",
+    "IngestLabel": "HP_WOLF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Huawei NAC",
+    "IngestLabel": "HUAWEI_NAC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HubSpot Activity Logs",
+    "IngestLabel": "HUBSPOT_ACTIVITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HubSpot Authentication Logs",
+    "IngestLabel": "HUBSPOT_LOGIN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HubSpot CRM Platform",
+    "IngestLabel": "HUBSPOT_CRM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "HYPR MFA",
+    "IngestLabel": "HYPR_MFA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Cleversafe Object Storage",
+    "IngestLabel": "IBM_CLEVERSAFE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM JDE",
+    "IngestLabel": "JDE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM KNS",
+    "IngestLabel": "IBM_KNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM MaaS360",
+    "IngestLabel": "IBM_MAAS360",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Mainframe Storage",
+    "IngestLabel": "IBM_MAINFRAME_STORAGE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM MQ File Transfer",
+    "IngestLabel": "IBM_MQ_FILE_TRANSFER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Security Identity Manager",
+    "IngestLabel": "IBM_SIM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Security QRadar SOAR",
+    "IngestLabel": "IBM_SOAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Spectrum Protect",
+    "IngestLabel": "IBM_SPECTRUM_PROTECT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Switch",
+    "IngestLabel": "IBM_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Tape Storages",
+    "IngestLabel": "IBM_LTO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM Tririga",
+    "IngestLabel": "IBM_TRIRIGA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM WebSEAL",
+    "IngestLabel": "IBM_WEBSEAL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM WinCollect",
+    "IngestLabel": "IBM_WINCOLLECT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "IBM zSecure Alert",
+    "IngestLabel": "IBM_ZSECURE_ALERT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Idecsi",
+    "IngestLabel": "IDECSI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "iManage Cloud Platform",
+    "IngestLabel": "IMANAGE_CLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Imperva Sonar",
+    "IngestLabel": "IMPERVA_SONAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Imprivata Confirm ID",
+    "IngestLabel": "IMPRIVATA_CONFIRM_ID",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Imprivata Identity Governance",
+    "IngestLabel": "IMPRIVATA_IDG",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Imprivata OneSign",
+    "IngestLabel": "IMPRIVATA_ONESIGN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Infinidat",
+    "IngestLabel": "INFINIDAT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Infoblox Loadbalancer",
+    "IngestLabel": "INFOBLOX_LOADBALANCER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Infoblox NetMRI",
+    "IngestLabel": "INFOBLOX_NETMRI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Infoblox RPZ",
+    "IngestLabel": "INFOBLOX_RPZ",
+    "Parsed": "No"
+  },
+  {
+    "Product": "INKY Secure Email",
+    "IngestLabel": "INKY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Insider threat detection and response",
+    "IngestLabel": "CYDERES_INSIDER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "inWebo MFA",
+    "IngestLabel": "INWEBO_MFA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ipswitch MOVEit Automation",
+    "IngestLabel": "IPSWITCH_MOVEIT_AUTOMATION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ironscales",
+    "IngestLabel": "IRONSCALES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ivanti Application Control",
+    "IngestLabel": "IVANTI_APP_CONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ivanti Device Control",
+    "IngestLabel": "IVANTI_DEVICE_CONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jamf Compliance Reporter",
+    "IngestLabel": "JAMF_COMPLIANCE_REPORTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "JAMF Pro",
+    "IngestLabel": "JAMF_PRO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jamf pro context",
+    "IngestLabel": "JAMF_PRO_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jamf Pro MDM",
+    "IngestLabel": "JAMF_PRO_MDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jamf Protect Network Traffic",
+    "IngestLabel": "JAMF_NETWORK_TRAFFIC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jamf Protect Threat Events",
+    "IngestLabel": "JAMF_THREAT_EVENTS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jenkins",
+    "IngestLabel": "JENKINS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "JumpCloud Directory as a Service",
+    "IngestLabel": "JUMPCLOUD_DAAS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Juniper Secure Connect VPN",
+    "IngestLabel": "JUNIPER_VPN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Jupiter One",
+    "IngestLabel": "JUPITER_ONE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "KACE Service Desk",
+    "IngestLabel": "KACE_SERVICE_DESK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "KACE Systems Management Appliance",
+    "IngestLabel": "KACE_SMA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kamailio",
+    "IngestLabel": "KAMAILIO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kandji",
+    "IngestLabel": "KANDJI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kaseya IT Management",
+    "IngestLabel": "KASEYA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kaspersky Endpoint",
+    "IngestLabel": "KASPERSKY_ENDPOINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Keeper Enterprise Security",
+    "IngestLabel": "KEEPER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Keycloak",
+    "IngestLabel": "KEYCLOAK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Keysight Packet Brokers",
+    "IngestLabel": "KEYSIGHT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kibana audit logs",
+    "IngestLabel": "KIBANA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kion",
+    "IngestLabel": "KION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kiteworks",
+    "IngestLabel": "KITEWORKS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "KnowBe4 PhishER",
+    "IngestLabel": "KNOWBE4_PHISHER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Kustomer CRM",
+    "IngestLabel": "KUSTOMER_CRM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lacework Cloud Security",
+    "IngestLabel": "LACEWORK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lansweeper Asset Management",
+    "IngestLabel": "LANSWEEPER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "LastPass Password Management",
+    "IngestLabel": "LASTPASS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lenovo XClarity Orchestrator",
+    "IngestLabel": "LXC_ORCHESTRATOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lepide",
+    "IngestLabel": "LEPIDE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lexmark Printer logs",
+    "IngestLabel": "LEXMARK_PRINTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Liaison NuBridges Platform",
+    "IngestLabel": "LIAISON_NUBRIDGES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Libraesva Email Security",
+    "IngestLabel": "LIBRAESVA_EMAIL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "LOAD_BALANCER_ADC",
+    "IngestLabel": "LB_ADC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Logic Monitor",
+    "IngestLabel": "LOGICMONITOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Looking Glass",
+    "IngestLabel": "LOOKING_GLASS_IOC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "LookingGlass Aenoik IDPS",
+    "IngestLabel": "LOOKINGGLASS_IPS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "LSI Badge Management System",
+    "IngestLabel": "LSI_BMS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lumen DDoS Hyper",
+    "IngestLabel": "LUMEN_DDOS_HYPER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Lumos",
+    "IngestLabel": "LUMOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "MailScanner",
+    "IngestLabel": "MAILSCANNER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Malwarebytes",
+    "IngestLabel": "MALWAREBYTES_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Manage Engine Endpoint",
+    "IngestLabel": "MANAGEENGINE_ENDPOINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ManageEngine ADManager Plus",
+    "IngestLabel": "ADMANAGER_PLUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ManageEngine ADSelfService Plus",
+    "IngestLabel": "ADSELFSERVICE_PLUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ManageEngine Password Manager Pro",
+    "IngestLabel": "MANAGE_ENGINE_PASSWORD_MANAGER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ManageEngine Remote Access Plus",
+    "IngestLabel": "MANAGEENGINE_RAP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mandiant Attack Surface Management Discovered Issue",
+    "IngestLabel": "MANDIANT_ASM_ISSUE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mandiant Attack Surface Management Entity",
+    "IngestLabel": "MANDIANT_ASM_ENTITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mandiant Attack Surface Management Technology",
+    "IngestLabel": "MANDIANT_ASM_TECHNOLOGY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mango Apps",
+    "IngestLabel": "MANGOAPPS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Maria Database",
+    "IngestLabel": "MARIA_DB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Material Security",
+    "IngestLabel": "MATERIAL_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Matrix Frontier Badge Management",
+    "IngestLabel": "MATRIX_FRONTIER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "McAfee Advanced Threat Defense",
+    "IngestLabel": "MCAFEE_ATD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "McAfee Application Control",
+    "IngestLabel": "MCAFEE_APP_CONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "McAfee MVISION EDR",
+    "IngestLabel": "MCAFEE_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "McAfee Solid Core",
+    "IngestLabel": "MCAFEE_SOLID_CORE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Medigate CMDB",
+    "IngestLabel": "MEDIGATE_CMDB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Micro Focus iManager",
+    "IngestLabel": "MICROFOCUS_IMANAGER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "MicroSemi NTP",
+    "IngestLabel": "MICROSEMI_NTP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft ActiveSync",
+    "IngestLabel": "ACTIVE_SYNC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Azure",
+    "IngestLabel": "AZURE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Azure AD Risk Detections",
+    "IngestLabel": "MICROSOFT_RISK_DETECTIONS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft CyberX",
+    "IngestLabel": "CYBERX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Defender External Attack Surface Management",
+    "IngestLabel": "MICROSOFT_EASM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Dynamics 365 User Activity",
+    "IngestLabel": "MICROSOFT_DYNAMICS_365",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft IAS Server",
+    "IngestLabel": "MICROSOFT_IAS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Identity Protection",
+    "IngestLabel": "MICROSOFT_IDENTITY_PROTECTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Intune Context",
+    "IngestLabel": "AZURE_MDM_INTUNE_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Netlogon",
+    "IngestLabel": "MICROSOFT_NETLOGON",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Security Actions",
+    "IngestLabel": "MICROSOFT_SECURITY_ACTIONS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Security Advisories Alerts",
+    "IngestLabel": "MICROSOFT_SECURITY_ALERTS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft SharePoint",
+    "IngestLabel": "SHAREPOINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft SSTP VPN",
+    "IngestLabel": "MICROSOFT_SSTP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft System Center Configuration Manager",
+    "IngestLabel": "SCCM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft System Center Endpoint Protection",
+    "IngestLabel": "MICROSOFT_SCEP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Microsoft Threat Indicators",
+    "IngestLabel": "MICROSOFT_THREAT_INDICATORS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mikrotik Router",
+    "IngestLabel": "MIKROTIK_ROUTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mimecast Attachment Logs",
+    "IngestLabel": "MIMECAST_ATTACHMENT_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mimecast Audit Logs",
+    "IngestLabel": "MIMECAST_AUDIT_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mimecast DLP Logs",
+    "IngestLabel": "MIMECAST_DLP_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mimecast impersonation Logs",
+    "IngestLabel": "MIMECAST_IMPERSONATION_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mimecast URL Logs",
+    "IngestLabel": "MIMECAST_URL_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mimecast Web Security",
+    "IngestLabel": "MIMECAST_WEBPROXY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Minerva AV",
+    "IngestLabel": "MINERVA_AV",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mirth OnPrem Appliances NextGen",
+    "IngestLabel": "MIRTH_NEXTGEN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mode Analytics",
+    "IngestLabel": "MODE_ANALYTICS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "MS Powershell Transcript",
+    "IngestLabel": "POWERSHELL_TRANSCRIPT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Mulesoft",
+    "IngestLabel": "MULESOFT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "MultiPay",
+    "IngestLabel": "MULTIPAY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nagios Infrastructure Monitoring",
+    "IngestLabel": "NAGIOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NCC Scout Suite",
+    "IngestLabel": "NCC_SCOUTSUITE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NCR Digital Insight FSG",
+    "IngestLabel": "NCR_DIGITAL_INSIGHT_FSG",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NCR Digital Insight Global Logging",
+    "IngestLabel": "NCR_DIGITAL_INSIGHT_GL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ne Silent Log",
+    "IngestLabel": "NE_SILENT_LOG",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Neo4j",
+    "IngestLabel": "NEO4J",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nessus",
+    "IngestLabel": "NESSUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NetDisco",
+    "IngestLabel": "NETDISCO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Netenrich Entity Behaviour",
+    "IngestLabel": "NETENRICH_ENTITY_BEHAVIOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Netgear Switch",
+    "IngestLabel": "NETGEAR_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NetIQ Access Manager",
+    "IngestLabel": "NETIQ_ACCESS_MANAGER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NetIQ eDirectory",
+    "IngestLabel": "NETIQ_EDIRECTORY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Netmotion",
+    "IngestLabel": "NETMOTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Netscope Client",
+    "IngestLabel": "NETSKOPE_CLIENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Netskope CASB",
+    "IngestLabel": "NETSKOPE_CASB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Netsurion ProtectWise",
+    "IngestLabel": "NETSURION_PROTECTWISE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Neustar SiteProtect",
+    "IngestLabel": "NEUSTAR_SITEPROTECT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "New Relic Platform",
+    "IngestLabel": "NEW_RELIC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nextcloud Hub",
+    "IngestLabel": "NEXTCLOUD_HUB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ninja One",
+    "IngestLabel": "NINJAONE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NIST National Vulnerability Database",
+    "IngestLabel": "NIST_NVD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "NNT File Integrity monitoring",
+    "IngestLabel": "NNT_FIM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nokia Router",
+    "IngestLabel": "NOKIA_ROUTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Noname API Security",
+    "IngestLabel": "NONAME_API_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nortel Contivity VPN Switch",
+    "IngestLabel": "NORTEL_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ntopng",
+    "IngestLabel": "NTOPNG",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nucleus Vulnerability Scan Delta",
+    "IngestLabel": "NUCLEUS_VULNERABILITY_DELTA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Nutanix Frame",
+    "IngestLabel": "NUTANIX_FRAME",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Obsidian",
+    "IngestLabel": "OBSIDIAN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Okta RADIUS",
+    "IngestLabel": "OKTA_RADIUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "OnBase CMS",
+    "IngestLabel": "ONBASE_CMS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "One Identity Active Role Service",
+    "IngestLabel": "ONEIDENTITY_ARS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "One Identity Change Auditor",
+    "IngestLabel": "ONEIDENTITY_CHANGE_AUDITOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "One Identity Defender",
+    "IngestLabel": "ONEIDENTITY_DEFENDER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "One Identity TPAM",
+    "IngestLabel": "ONEIDENTITY_TPAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "OneIdentity Balabit",
+    "IngestLabel": "BALABIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "OneLogin User Context",
+    "IngestLabel": "ONELOGIN_USER_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Open Source Intelligence",
+    "IngestLabel": "OSINT_IOC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Opengear Remote Management",
+    "IngestLabel": "OPENGEAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Openpath",
+    "IngestLabel": "OPENPATH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "OpenText Fax2Mail",
+    "IngestLabel": "OPENTEXT_FAX2MAIL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Opnsense",
+    "IngestLabel": "OPNSENSE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Opswat Metadefender",
+    "IngestLabel": "OPSWAT_METADEFENDER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Oracle Cloud Infrastructure",
+    "IngestLabel": "ORACLE_CLOUD_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Oracle HCM Human resources platform solution",
+    "IngestLabel": "ORACLE_HCM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Oracle SSO Audit Logging",
+    "IngestLabel": "ORACLE_SSO_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Oracle WebLogic Server",
+    "IngestLabel": "ORACLE_WEBLOGIC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Orca Cloud Security Platform",
+    "IngestLabel": "ORCA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Oscar Claims",
+    "IngestLabel": "OSCAR_CLAIMS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Osirium PAM",
+    "IngestLabel": "OSIRIUM_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Packet Viper",
+    "IngestLabel": "PACKET_VIPER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Packetlight Dwdm",
+    "IngestLabel": "PACKETLIGHT_DWDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PACOM Systems",
+    "IngestLabel": "PACOM_SYSTEMS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PagerDuty",
+    "IngestLabel": "PAGERDUTY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pagerduty Audit",
+    "IngestLabel": "PAGERDUTY_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Palo Alto DNS Security",
+    "IngestLabel": "PAN_DNS_SECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Palo Alto Networks Global Protect",
+    "IngestLabel": "PAN_GLOBAL_PROTECT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Palo Alto Networks IoT Security",
+    "IngestLabel": "PAN_IOT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Palo Alto Networks XSOAR Audit",
+    "IngestLabel": "PAN_XSOAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PaperCut Printing Management System",
+    "IngestLabel": "PAPER_CUT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Passwordstate",
+    "IngestLabel": "PASSWORDSTATE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pentera",
+    "IngestLabel": "PENTERA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pentera ASV",
+    "IngestLabel": "PENTERA_ASV",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PeopleSoft",
+    "IngestLabel": "PEOPLESOFT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Peplink Loadbalancer",
+    "IngestLabel": "PEPLINK_LOADBALANCER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Peplink Router",
+    "IngestLabel": "PEPLINK_ROUTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Peplink Switch",
+    "IngestLabel": "PEPLINK_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Perimeter 81",
+    "IngestLabel": "PERIMETER_81",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PerimeterX Bot Protection",
+    "IngestLabel": "PERIMETERX_BOT_PROTECTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ping Access",
+    "IngestLabel": "PING_ACCESS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ping One",
+    "IngestLabel": "PING_ONE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ping SDK",
+    "IngestLabel": "PING_SDK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pingsafe",
+    "IngestLabel": "PINGSAFE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Plaso Super Timeline",
+    "IngestLabel": "PLASO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Plixer Scrutinizer",
+    "IngestLabel": "PLIXER_SCRUTINIZER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pomerium",
+    "IngestLabel": "POMERIUM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PostgreSQL",
+    "IngestLabel": "POSTGRESQL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Power DNS",
+    "IngestLabel": "POWER_DNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Preveil Enterprise",
+    "IngestLabel": "PREVEIL_ENTERPRISE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ProLion CryptoSpike",
+    "IngestLabel": "CRYPTOSPIKE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ProofID",
+    "IngestLabel": "PROOFID",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Proofpoint CASB",
+    "IngestLabel": "PROOFPOINT_CASB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Proofpoint Secure Share",
+    "IngestLabel": "PROOFPOINT_SECURE_SHARE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Proofpoint Security Awareness Training",
+    "IngestLabel": "PROOFPOINT_SECURITY_AWARENESS_TRAINING",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Protegrity Defiance",
+    "IngestLabel": "PROTEGRITY_DEFIANCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ProxMax",
+    "IngestLabel": "PROXMAX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "PRTG Network Monitor",
+    "IngestLabel": "PRTG_NETWORKMONITOR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pulse Secure Virtual Traffic Manager",
+    "IngestLabel": "PULSE_SECURE_VTM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Puppet",
+    "IngestLabel": "PUPPET",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Pure Storage",
+    "IngestLabel": "PURE_STORAGE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "QLIK Audit",
+    "IngestLabel": "QLIK_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "QNAP Systems NAS",
+    "IngestLabel": "QNAP_NAS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Qualys User Activity",
+    "IngestLabel": "QUALYS_ACTIVITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "RAD ETX",
+    "IngestLabel": "RAD_ETX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Radware DDoS Protection",
+    "IngestLabel": "RADWARE_DDOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Rapid7 Security Onion",
+    "IngestLabel": "RAPID7_SECURITY_ONION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Raritan Dominion SX II",
+    "IngestLabel": "RARITAN_DOMINION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "reCAPTCHA Enterprise",
+    "IngestLabel": "GCP_RECAPTCHA_ENTERPRISE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Recordia",
+    "IngestLabel": "RECORDIA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Red Canary Cloud Protection",
+    "IngestLabel": "REDCANARY_CLOUD_PROTECTION_RAW",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Red Hat Identity Management",
+    "IngestLabel": "REDHAT_IM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Red Hat Keycloak",
+    "IngestLabel": "REDHAT_KEYCLOAK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "RedHat Satellite Server",
+    "IngestLabel": "REDHAT_SATELLITE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "RedHat StackRox",
+    "IngestLabel": "REDHAT_STACKROX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Remediant SecureONE",
+    "IngestLabel": "REMEDIANT_SECUREONE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ribbon Session Border Controller",
+    "IngestLabel": "RIBBON_SBC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ring Central",
+    "IngestLabel": "RING_CENTRAL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "RiskIQ Digital Footprint",
+    "IngestLabel": "RISKIQ_DIGITAL_FOOTPRINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "RSA RADIUS",
+    "IngestLabel": "RADIUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "RSA SecurID Access Identity Router",
+    "IngestLabel": "RSA_SECURID",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Rubrik Polaris",
+    "IngestLabel": "RUBRIK_POLARIS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Rumble Network Discovery",
+    "IngestLabel": "RUMBLE_NETWORK_DISCOVERY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SafeConnect NAC",
+    "IngestLabel": "SAFECONNECT_NAC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Saiwall VPN",
+    "IngestLabel": "SAIWALL_VPN",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Salesforce Context",
+    "IngestLabel": "SALESFORCE_CONTEXT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sangfor Next Generation Firewall",
+    "IngestLabel": "SANGFOR_NGAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SAP Cloud for Customer",
+    "IngestLabel": "SAP_C4C",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SAP HANA",
+    "IngestLabel": "SAP_HANA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SAP Identity Management",
+    "IngestLabel": "SAP_IDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SAP Insurance",
+    "IngestLabel": "SAP_INSURANCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SAP SAST Suite",
+    "IngestLabel": "SAP_SAST",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SAP SuccessFactors",
+    "IngestLabel": "SAP_SUCCESSFACTORS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Secberus Cloud Security Governance",
+    "IngestLabel": "SECBERUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SecurityScorecard Platform",
+    "IngestLabel": "SECURITYSCORECARD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Semperis ADFR",
+    "IngestLabel": "SEMPERIS_ADFR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sendgrid Api",
+    "IngestLabel": "SENDGRID",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Senhasegura PAM",
+    "IngestLabel": "SENHASEGURA_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SentinelOne Singularity Cloud Funnel",
+    "IngestLabel": "SENTINELONE_CF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ServiceNow Audit",
+    "IngestLabel": "SERVICENOW_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ServiceNow Roles",
+    "IngestLabel": "SERVICENOW_ROLES",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sevco Security CMDB",
+    "IngestLabel": "SEVCO_CMDB",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sharepoint Unified Logging Service (ULS)",
+    "IngestLabel": "SHAREPOINT_ULS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "shodan.io",
+    "IngestLabel": "SHODAN_IO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Siebel Monitoring",
+    "IngestLabel": "SIEBEL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Siemens SiPass",
+    "IngestLabel": "SIEMENS_SIPASS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Silver Peak Firewall",
+    "IngestLabel": "SILVERPEAK_FIREWALL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Single Store",
+    "IngestLabel": "SINGLE_STORE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SKYSEA Client View",
+    "IngestLabel": "SKYSEA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Smart Simple",
+    "IngestLabel": "SMART_SIMPLE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Snapattack",
+    "IngestLabel": "SNAPATTACK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Snipe-IT",
+    "IngestLabel": "SNIPE_IT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Snowflake",
+    "IngestLabel": "SNOWFLAKE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Socomec UPS",
+    "IngestLabel": "SOCOMEC_UPS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Software House Access Control",
+    "IngestLabel": "SOFTWARE_HOUSE_ACS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Solaris system",
+    "IngestLabel": "SOLARIS_SYSTEM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SolarWinds Serv-U",
+    "IngestLabel": "SOLARWINDS_SERV_U",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SonarQube",
+    "IngestLabel": "SONARQUBE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sophos Email Appliance",
+    "IngestLabel": "SOPHOS_EMAIL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sophos URL filtering",
+    "IngestLabel": "SOPHOS_URL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Spamhaus",
+    "IngestLabel": "SPAMHAUS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Splashtop Remote Access and Support software",
+    "IngestLabel": "SPLASHTOP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Splunk DNS",
+    "IngestLabel": "SPLUNK_DNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Splunk Intel Management",
+    "IngestLabel": "SPLUNK_TRUSTAR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Splunk Phantom",
+    "IngestLabel": "SPLUNK_PHANTOM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SpyCloud",
+    "IngestLabel": "SPYCLOUD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SSL pcap",
+    "IngestLabel": "PCAP_SSL_CLIENT_HELLO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Stairwell Inception",
+    "IngestLabel": "STAIRWELL_INCEPTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Stream Alert",
+    "IngestLabel": "STREAMALERT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "StrongDM",
+    "IngestLabel": "STRONGDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Sublime Security",
+    "IngestLabel": "SUBLIMESECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Supermicro IPMI",
+    "IngestLabel": "SUPERMICRO_IPMI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Superna Eyeglass",
+    "IngestLabel": "SUPERNA_EYEGLASS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "SureView Systems Activity",
+    "IngestLabel": "SUREVIEW_SYSTEMS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Swift Alliance Messaging Hub",
+    "IngestLabel": "SWIFT_AMH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Swimlane Platform",
+    "IngestLabel": "SWIMLANE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Symantec Messaging Gateway",
+    "IngestLabel": "SYMANTEC_MAIL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Symantec Protection Engine",
+    "IngestLabel": "SPE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Symphony Summit AI",
+    "IngestLabel": "SYMPHONYAI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Synology",
+    "IngestLabel": "SYNOLOGY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tableau",
+    "IngestLabel": "TABLEAU",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tailscale",
+    "IngestLabel": "TAILSCALE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tanium Deploy",
+    "IngestLabel": "TANIUM_DEPLOY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tanium Question",
+    "IngestLabel": "TANIUM_QUESTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tanium TanOS",
+    "IngestLabel": "TANIUM_TANOS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tenable Active Directory Security",
+    "IngestLabel": "TENABLE_ADS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tenable OT",
+    "IngestLabel": "TENABLE_OT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tenable Web App Scanning",
+    "IngestLabel": "TENABLE_WAS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Terraform Enterprise Audit",
+    "IngestLabel": "TERRAFORM_ENTERPRISE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tessian Cloud Email Security Platform",
+    "IngestLabel": "TESSIAN_PLATFORM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "TGDetect",
+    "IngestLabel": "TGDETECT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ThreatQuotient",
+    "IngestLabel": "THREATQ_IOC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ThreatX WAF",
+    "IngestLabel": "THREATX_WAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Thycotic devops secret vault",
+    "IngestLabel": "THYCOTIC_DEVOPS_SECRETVAULT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Traceable API Security",
+    "IngestLabel": "TRACEABLE_PLATFORM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Traefik Labs",
+    "IngestLabel": "TRAEFIK",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Trend Micro",
+    "IngestLabel": "TIPPING_POINT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Trend Micro Apex one",
+    "IngestLabel": "TRENDMICRO_APEX_ONE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Trend Micro Cloud App Security",
+    "IngestLabel": "TRENDMICRO_CLOUDAPPSECURITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Trend Micro Cloud one",
+    "IngestLabel": "TRENDMICRO_CLOUDONE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "TrendMicro Deep Discovery Inspector",
+    "IngestLabel": "TRENDMICRO_DDI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "TrendMicro EDR",
+    "IngestLabel": "TRENDMICRO_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tripp Lite",
+    "IngestLabel": "TRIPP_LITE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Twilio Audit",
+    "IngestLabel": "TWILIO_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Twilio Authy",
+    "IngestLabel": "TWILIO_AUTHY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Twingate",
+    "IngestLabel": "TWINGATE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Tyk IO",
+    "IngestLabel": "TYK_IO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ubiquiti UDM Firewall",
+    "IngestLabel": "UBIQUITI_FIREWALL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "UDM",
+    "IngestLabel": "UDM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Uipath",
+    "IngestLabel": "UIPATH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Ultra Electronics CyberFence",
+    "IngestLabel": "ULTRA_CYBERFENCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "UltraDNS",
+    "IngestLabel": "ULTRADNS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Unifi Switch",
+    "IngestLabel": "UNIFI_SWITCH",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Unit 21",
+    "IngestLabel": "UNIT21",
+    "Parsed": "No"
+  },
+  {
+    "Product": "UpGuard",
+    "IngestLabel": "UPGUARD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Vector Dev",
+    "IngestLabel": "VECTOR_DEV",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Vectra Protect",
+    "IngestLabel": "VECTRA_PROTECT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Veeam",
+    "IngestLabel": "VEEAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Velo Firewall",
+    "IngestLabel": "VELO_FIREWALL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Venafi",
+    "IngestLabel": "VENAFI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Veritas NetBackup",
+    "IngestLabel": "VERITAS_NETBACKUP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Verizon Network Detection and Response",
+    "IngestLabel": "VERIZON_NDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Verkada",
+    "IngestLabel": "VERKADA",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Virsec Attack and Threat Logs",
+    "IngestLabel": "VIRSEC_THREAT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Virsec Event Logs",
+    "IngestLabel": "VIRSEC_EVENT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Virtru Email Encryption",
+    "IngestLabel": "VIRTRU_EMAIL_ENCRYPTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VirusTotal Threat Hunter",
+    "IngestLabel": "VIRUSTOTAL_THREAT_HUNTER",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMRay Analyzer",
+    "IngestLabel": "VMRAY_FLOG_XML",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware Aria Logs",
+    "IngestLabel": "VMWARE_ARIA_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware Avi Vantage Platform",
+    "IngestLabel": "VMWARE_AVI_VANTAGE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Vmware Avinetworks iWAF",
+    "IngestLabel": "VMWARE_AVINETWORKS_IWAF",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware Cloud Director",
+    "IngestLabel": "VMWARE_CD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware HCX",
+    "IngestLabel": "VMWARE_HCX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware NSX AVI",
+    "IngestLabel": "VMWARE_NSX_AVI",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware SDDC",
+    "IngestLabel": "VMWARE_SDDC",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware SDWN Events",
+    "IngestLabel": "VMWARE_SDWN_EVENTS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware Unified Access Gateway",
+    "IngestLabel": "VMWARE_UNIFIED_ACCESS_GATEWAY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VMware vShield",
+    "IngestLabel": "VMWARE_VSHIELD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Voltage",
+    "IngestLabel": "VOLTAGE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Vsftpd",
+    "IngestLabel": "VSFTPD",
+    "Parsed": "No"
+  },
+  {
+    "Product": "VSFTPD Audit",
+    "IngestLabel": "VSFTPD_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Wallix Bastion",
+    "IngestLabel": "WALLIX_BASTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Wallix Endpoint Privilege Management",
+    "IngestLabel": "WALLIX_EPM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Wallix Privileged Access Management",
+    "IngestLabel": "WALLIX_PAM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "WebEx",
+    "IngestLabel": "WEBEX_SAAS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Western Telematic Inc Console Servers",
+    "IngestLabel": "WTI_CONSOLE_SERVERS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "White Cloud",
+    "IngestLabel": "WHITECLOUD_EDR",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Windows Filtering Platform",
+    "IngestLabel": "WINDOWS_WFP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "wiz.io",
+    "IngestLabel": "WIZ_IO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Wordpress Simple History",
+    "IngestLabel": "WORDPRESS_SIMPLE_HISTORY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Workato Audit Logs",
+    "IngestLabel": "WORKATO",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Workday Audit Logs",
+    "IngestLabel": "WORKDAY_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Workday User Activity",
+    "IngestLabel": "WORKDAY_USER_ACTIVITY",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Workspot Control",
+    "IngestLabel": "WORKSPOT_CONTROL",
+    "Parsed": "No"
+  },
+  {
+    "Product": "WP Engine",
+    "IngestLabel": "WP_ENGINE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zabbix",
+    "IngestLabel": "ZABBIX",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zeek DHCP",
+    "IngestLabel": "BRO_DHCP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zeek HTTP",
+    "IngestLabel": "BRO_HTTP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zendesk CRM",
+    "IngestLabel": "ZENDESK_CRM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ZeroFox Platform",
+    "IngestLabel": "ZEROFOX_PLATFORM",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zoho Analytics Audits",
+    "IngestLabel": "ZOHO_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "ZScaler Deception",
+    "IngestLabel": "ZSCALER_DECEPTION",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zscaler Digital Experience",
+    "IngestLabel": "ZSCALER_DIGITAL_EXPERIENCE",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zscaler DLP",
+    "IngestLabel": "ZSCALER_DLP",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zscaler Secure Private Access Audit Logs",
+    "IngestLabel": "ZSCALER_ZPA_AUDIT",
+    "Parsed": "No"
+  },
+  {
+    "Product": "Zuora App Logs",
+    "IngestLabel": "ZUORA_APP_LOGS",
+    "Parsed": "No"
+  },
+  {
+    "Product": "1Password",
+    "IngestLabel": "ONEPASSWORD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Acalvio",
+    "IngestLabel": "ACALVIO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Active Countermeasures",
+    "IngestLabel": "AI_HUNTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Akamai DNS",
+    "IngestLabel": "AKAMAI_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Akamai Enterprise Application Access",
+    "IngestLabel": "AKAMAI_EAA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Akamai WAF",
+    "IngestLabel": "AKAMAI_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Akeyless Vault Platform",
+    "IngestLabel": "AKEYLESS_VAULT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AlgoSec Security Management",
+    "IngestLabel": "ALGOSEC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AlphaSOC",
+    "IngestLabel": "ASOC_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AMD Pensando DSS Firewall",
+    "IngestLabel": "AMD_DSS_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Anomali",
+    "IngestLabel": "ANOMALI_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ansible AWX",
+    "IngestLabel": "ANSIBLE_AWX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apache",
+    "IngestLabel": "APACHE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apache Cassandra",
+    "IngestLabel": "CASSANDRA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apache Hadoop",
+    "IngestLabel": "HADOOP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apache Tomcat",
+    "IngestLabel": "TOMCAT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apigee",
+    "IngestLabel": "GCP_APIGEE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apigee",
+    "IngestLabel": "GCP_APIGEE_X",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Apple MacOS",
+    "IngestLabel": "MACOS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AppOmni",
+    "IngestLabel": "APPOMNI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Aqua Security",
+    "IngestLabel": "AQUA_SECURITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Archer Integrated Risk Management",
+    "IngestLabel": "ARCHER_IRM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Arcsight CEF",
+    "IngestLabel": "ARCSIGHT_CEF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Area1 Security",
+    "IngestLabel": "AREA1",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Arista Switch",
+    "IngestLabel": "ARISTA_SWITCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Armis Activities",
+    "IngestLabel": "ARMIS_ACTIVITIES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Armis Alerts",
+    "IngestLabel": "ARMIS_ALERTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Armis Devices",
+    "IngestLabel": "ARMIS_DEVICES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Armis Vulnerabilities",
+    "IngestLabel": "ARMIS_VULNERABILITIES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Aruba",
+    "IngestLabel": "ARUBA_WIRELESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Aruba Airwave",
+    "IngestLabel": "ARUBA_AIRWAVE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Aruba EdgeConnect SD-WAN",
+    "IngestLabel": "ARUBA_EDGECONNECT_SDWAN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Aruba IPS",
+    "IngestLabel": "ARUBA_IPS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Atlassian Bitbucket",
+    "IngestLabel": "ATLASSIAN_BITBUCKET",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Atlassian Confluence",
+    "IngestLabel": "ATLASSIAN_CONFLUENCE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Atlassian Jira",
+    "IngestLabel": "ATLASSIAN_JIRA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Attivo Networks",
+    "IngestLabel": "ATTIVO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Auth0",
+    "IngestLabel": "AUTH_ZERO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Automation Anywhere",
+    "IngestLabel": "AUTOMATION_ANYWHERE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Avanan Email Security",
+    "IngestLabel": "AVANAN_EMAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Avatier Password Management",
+    "IngestLabel": "AVATIER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Avaya Aura Experience Portal",
+    "IngestLabel": "AVAYA_AURA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS CloudFront",
+    "IngestLabel": "AWS_CLOUDFRONT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Cloudtrail",
+    "IngestLabel": "AWS_CLOUDTRAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS CloudWatch",
+    "IngestLabel": "AWS_CLOUDWATCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Config",
+    "IngestLabel": "AWS_CONFIG",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Control Tower",
+    "IngestLabel": "AWS_CONTROL_TOWER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Elastic Load Balancer",
+    "IngestLabel": "AWS_ELB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS GuardDuty",
+    "IngestLabel": "GUARDDUTY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Key Management Service",
+    "IngestLabel": "AWS_KMS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Macie",
+    "IngestLabel": "AWS_MACIE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Network Firewall",
+    "IngestLabel": "AWS_NETWORK_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS RDS",
+    "IngestLabel": "AWS_RDS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Route 53 DNS",
+    "IngestLabel": "AWS_ROUTE_53",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS S3 Server Access",
+    "IngestLabel": "AWS_S3_SERVER_ACCESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Security Hub",
+    "IngestLabel": "AWS_SECURITY_HUB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS Session Manager",
+    "IngestLabel": "AWS_SESSION_MANAGER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS VPC Flow",
+    "IngestLabel": "AWS_VPC_FLOW",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "AWS WAF",
+    "IngestLabel": "AWS_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azion",
+    "IngestLabel": "AZION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure AD",
+    "IngestLabel": "AZURE_AD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure AD Directory Audit",
+    "IngestLabel": "AZURE_AD_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure AD Organizational Context",
+    "IngestLabel": "AZURE_AD_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure Cosmos DB",
+    "IngestLabel": "AZURE_COSMOS_DB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure DevOps Audit",
+    "IngestLabel": "AZURE_DEVOPS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure Firewall",
+    "IngestLabel": "AZURE_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure SQL",
+    "IngestLabel": "AZURE_SQL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure VPN",
+    "IngestLabel": "AZURE_VPN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Azure WAF",
+    "IngestLabel": "AZURE_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Barracuda Email",
+    "IngestLabel": "BARRACUDA_EMAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Barracuda Firewall",
+    "IngestLabel": "BARRACUDA_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Barracuda WAF",
+    "IngestLabel": "BARRACUDA_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Barracuda Web Filter",
+    "IngestLabel": "BARRACUDA_WEBFILTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BeyondTrust",
+    "IngestLabel": "BOMGAR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BeyondTrust Privileged Identity",
+    "IngestLabel": "BEYONDTRUST_PI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BeyondTrust Secure Remote Access",
+    "IngestLabel": "BEYONDTRUST_REMOTE_ACCESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Big Switch BigCloudFabric",
+    "IngestLabel": "BIGSWITCH_BCF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BigQuery",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BIND",
+    "IngestLabel": "BIND_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Bitdefender",
+    "IngestLabel": "BITDEFENDER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BloxOne Threat Defense",
+    "IngestLabel": "BLOXONE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Blue Coat Proxy",
+    "IngestLabel": "BLUECOAT_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Bluecat DDI",
+    "IngestLabel": "BLUECAT_DDI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Bluecat Edge DNS Resolver",
+    "IngestLabel": "BLUECAT_EDGE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "BMC Helix Discovery",
+    "IngestLabel": "BMC_HELIX_DISCOVERY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Box",
+    "IngestLabel": "BOX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Broadcom SSL Visibility Appliance",
+    "IngestLabel": "BROADCOM_SSL_VA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Brocade ServerIron ADX",
+    "IngestLabel": "BROCADE_SERVERIRON",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CA Access Control",
+    "IngestLabel": "CA_ACCESS_CONTROL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CA ACF2",
+    "IngestLabel": "CA_ACF2",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CA LDAP",
+    "IngestLabel": "CA_LDAP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cambium Networks",
+    "IngestLabel": "CAMBIUM_NETWORKS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Carbon Black",
+    "IngestLabel": "CB_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Carbon Black App Control",
+    "IngestLabel": "CB_APP_CONTROL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cato Networks",
+    "IngestLabel": "CATO_NETWORKS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Centrify",
+    "IngestLabel": "CENTRIFY_SSO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Centripetal Networks IOC",
+    "IngestLabel": "CENTRIPETAL_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Check Point",
+    "IngestLabel": "CHECKPOINT_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Check Point Sandblast",
+    "IngestLabel": "CHECKPOINT_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Chrome Management",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Chronicle SOAR Audit",
+    "IngestLabel": "CHRONICLE_SOAR_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CircleCI",
+    "IngestLabel": "CIRCLECI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CIS Albert Alerts",
+    "IngestLabel": "CIS_ALBERT_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco ACS",
+    "IngestLabel": "CISCO_ACS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco AMP",
+    "IngestLabel": "CISCO_AMP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Application Centric Infrastructure",
+    "IngestLabel": "CISCO_ACI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Application Control Engine",
+    "IngestLabel": "CISCO_ACE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco ASA",
+    "IngestLabel": "CISCO_ASA_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco CloudLock",
+    "IngestLabel": "CISCO_CLOUDLOCK_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco CTS",
+    "IngestLabel": "CISCO_CTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco DHCP",
+    "IngestLabel": "CISCO_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Email Security",
+    "IngestLabel": "CISCO_EMAIL_SECURITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Firepower NGFW",
+    "IngestLabel": "CISCO_FIREPOWER_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco FireSIGHT Management Center",
+    "IngestLabel": "CISCO_FIRESIGHT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Firewall Services Module",
+    "IngestLabel": "CISCO_FWSM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Internetwork Operating System",
+    "IngestLabel": "CISCO_IOS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco ISE",
+    "IngestLabel": "CISCO_ISE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Meraki",
+    "IngestLabel": "CISCO_MERAKI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco NX-OS",
+    "IngestLabel": "CISCO_NX_OS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco PIX Firewall",
+    "IngestLabel": "CISCO_PIX_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Prime",
+    "IngestLabel": "CISCO_PRIME",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Router",
+    "IngestLabel": "CISCO_ROUTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Stealthwatch",
+    "IngestLabel": "CISCO_STEALTHWATCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Switch",
+    "IngestLabel": "CISCO_SWITCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco TACACS+",
+    "IngestLabel": "CISCO_TACACS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco UCM",
+    "IngestLabel": "CISCO_UCM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco UCS",
+    "IngestLabel": "CISCO_UCS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Umbrella Audit",
+    "IngestLabel": "CISCO_UMBRELLA_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Umbrella Cloud Firewall",
+    "IngestLabel": "UMBRELLA_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Umbrella DNS",
+    "IngestLabel": "UMBRELLA_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Umbrella IP",
+    "IngestLabel": "UMBRELLA_IP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Umbrella Web Proxy",
+    "IngestLabel": "UMBRELLA_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco VCS Expressway",
+    "IngestLabel": "CISCO_VCS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Vision Dynamic Signage Director",
+    "IngestLabel": "CISCO_STADIUMVISION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco VPN",
+    "IngestLabel": "CISCO_VPN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Web Services Manager",
+    "IngestLabel": "CISCO_WSM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco Wireless IPS",
+    "IngestLabel": "CISCO_WIPS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cisco WLC/WCS",
+    "IngestLabel": "CISCO_WIRELESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Citrix Monitor",
+    "IngestLabel": "CITRIX_MONITOR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Citrix Netscaler",
+    "IngestLabel": "CITRIX_NETSCALER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Citrix Storefront",
+    "IngestLabel": "CITRIX_STOREFRONT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ClamAV",
+    "IngestLabel": "CLAM_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Audit Logs",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Data Loss Prevention",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud DNS",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Functions Context",
+    "IngestLabel": "GCP_CLOUD_FUNCTIONS_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Identity Device Users",
+    "IngestLabel": "GCP_CLOUDIDENTITY_DEVICEUSERS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Identity Devices",
+    "IngestLabel": "GCP_CLOUDIDENTITY_DEVICES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Intrusion Detection System",
+    "IngestLabel": "GCP_IDS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud IoT",
+    "IngestLabel": "GCP_CLOUDIOT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Load Balancing",
+    "IngestLabel": "GCP_LOADBALANCING",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud NAT",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Passage",
+    "IngestLabel": "CLOUD_PASSAGE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Run",
+    "IngestLabel": "GCP_RUN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud SQL",
+    "IngestLabel": "GCP_CLOUDSQL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud SQL Context",
+    "IngestLabel": "GCP_SQL_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloud Storage Context",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloudflare",
+    "IngestLabel": "CLOUDFLARE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloudflare Audit",
+    "IngestLabel": "CLOUDFLARE_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloudflare WAF",
+    "IngestLabel": "CLOUDFLARE_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CloudGenix SD-WAN",
+    "IngestLabel": "CLOUDGENIX_SDWAN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cloudian hyperstore",
+    "IngestLabel": "CLOUDIAN_HYPERSTORE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CloudM",
+    "IngestLabel": "CLOUDM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cofense",
+    "IngestLabel": "COFENSE_TRIAGE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Comodo",
+    "IngestLabel": "COMODO_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Compute Context",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Compute Engine",
+    "IngestLabel": "GCP_COMPUTE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Corelight",
+    "IngestLabel": "CORELIGHT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CoSoSys Protector",
+    "IngestLabel": "ENDPOINT_PROTECTOR_DLP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "COVID-19 Cyber Threat Coalition",
+    "IngestLabel": "COVID_CTC_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CrowdStrike Detection Monitoring",
+    "IngestLabel": "CS_DETECTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CrowdStrike Falcon",
+    "IngestLabel": "CS_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CrowdStrike Falcon Stream",
+    "IngestLabel": "CS_STREAM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Crowdstrike IOC",
+    "IngestLabel": "CROWDSTRIKE_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CSV Custom IOC",
+    "IngestLabel": "CSV_CUSTOM_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Custom DNS",
+    "IngestLabel": "CUSTOM_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Custom Security Data Analytics",
+    "IngestLabel": "CUSTOM_SECURITY_DATA_ANALYTICS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CyberArk",
+    "IngestLabel": "CYBERARK",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "CyberArk Endpoint Privilege Manager (EPM)",
+    "IngestLabel": "CYBERARK_EPM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cybereason EDR",
+    "IngestLabel": "CYBEREASON_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Cylance Protect",
+    "IngestLabel": "CYLANCE_PROTECT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "D3 Banking",
+    "IngestLabel": "D3_BANKING",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Darktrace",
+    "IngestLabel": "DARKTRACE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Datadog",
+    "IngestLabel": "DATADOG",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Dataminr Alerts",
+    "IngestLabel": "DATAMINR_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Datto File Protection",
+    "IngestLabel": "DATTO_FILE_PROTECTION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Deep Instinct EDR",
+    "IngestLabel": "DEEP_INSTINCT_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Dell EMC Data Domain",
+    "IngestLabel": "DELL_EMC_DATA_DOMAIN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Dell EMC Isilon NAS",
+    "IngestLabel": "DELL_EMC_NAS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Dell OpenManage",
+    "IngestLabel": "DELL_OPENMANAGE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Department of Homeland Security",
+    "IngestLabel": "DHS_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Desynova Contido",
+    "IngestLabel": "DESYNOVA_CONTIDO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Digi modems",
+    "IngestLabel": "DIGI_MODEMS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Digital Guardian DLP",
+    "IngestLabel": "DIGITALGUARDIAN_DLP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Digital Guardian EDR",
+    "IngestLabel": "DIGITALGUARDIAN_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Digital Shadows Indicators",
+    "IngestLabel": "DIGITAL_SHADOWS_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Digital Shadows SearchLight",
+    "IngestLabel": "DIGITAL_SHADOWS_SEARCHLIGHT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "DigitalArts i-Filter",
+    "IngestLabel": "DIGITALARTS_IFILTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "DMP",
+    "IngestLabel": "DMP_ENTRE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Dope Security SWG",
+    "IngestLabel": "DOPE_SWG",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Duo Administrator Logs",
+    "IngestLabel": "DUO_ADMIN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Duo Auth",
+    "IngestLabel": "DUO_AUTH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Duo Entity context data",
+    "IngestLabel": "DUO_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Duo Telephony Logs",
+    "IngestLabel": "DUO_TELEPHONY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Duo User Context",
+    "IngestLabel": "DUO_USER_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "EfficientIP DDI",
+    "IngestLabel": "EFFICIENTIP_DDI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Elastic Audit Beats",
+    "IngestLabel": "ELASTIC_AUDITBEAT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Elastic Packet Beats",
+    "IngestLabel": "ELASTIC_PACKETBEATS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Elastic Windows Event Log Beats",
+    "IngestLabel": "ELASTIC_WINLOGBEAT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Emerging Threats Pro",
+    "IngestLabel": "ET_PRO_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "EPIC Systems",
+    "IngestLabel": "EPIC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ESET",
+    "IngestLabel": "ESET_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ESET AV",
+    "IngestLabel": "ESET_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ESET Threat Intelligence",
+    "IngestLabel": "ESET_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ExtraHop DNS",
+    "IngestLabel": "EXTRAHOP_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ExtraHop RevealX",
+    "IngestLabel": "EXTRAHOP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 Advanced Firewall Management",
+    "IngestLabel": "F5_AFM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 ASM",
+    "IngestLabel": "F5_ASM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 BIGIP Access Policy Manager",
+    "IngestLabel": "F5_BIGIP_APM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 BIGIP LTM",
+    "IngestLabel": "F5_BIGIP_LTM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 DNS",
+    "IngestLabel": "F5_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 Shape",
+    "IngestLabel": "F5_SHAPE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "F5 VPN",
+    "IngestLabel": "F5_VPN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Falco IDS",
+    "IngestLabel": "FALCO_IDS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fastly WAF",
+    "IngestLabel": "FASTLY_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fidelis Network",
+    "IngestLabel": "FIDELIS_NETWORK",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "File Scanning Framework",
+    "IngestLabel": "FILE_SCANNING_FRAMEWORK",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FileZilla",
+    "IngestLabel": "FILEZILLA_FTP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FireEye",
+    "IngestLabel": "FIREEYE_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fireeye ETP",
+    "IngestLabel": "FIREEYE_ETP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FireEye HX",
+    "IngestLabel": "FIREEYE_HX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FireEye HX Audit",
+    "IngestLabel": "FIREEYE_HX_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FireEye NX",
+    "IngestLabel": "FIREEYE_NX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Firewall Rule Logging",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fluentd Logs",
+    "IngestLabel": "FLUENTD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Forcepoint NGFW",
+    "IngestLabel": "FORCEPOINT_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Forcepoint CASB",
+    "IngestLabel": "FORCEPOINT_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Forcepoint DLP",
+    "IngestLabel": "FORCEPOINT_DLP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Forcepoint Proxy",
+    "IngestLabel": "FORCEPOINT_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Forescout NAC",
+    "IngestLabel": "FORESCOUT_NAC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ForgeRock OpenAM",
+    "IngestLabel": "OPENAM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ForgeRock OpenDJ",
+    "IngestLabel": "OPENDJ",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Forseti Open Source",
+    "IngestLabel": "FORSETI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FortiGate",
+    "IngestLabel": "FORTINET_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "FortiMail Email Security",
+    "IngestLabel": "FORTINET_FORTIMAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fortinet",
+    "IngestLabel": "FORTINET_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fortinet FortiAnalyzer",
+    "IngestLabel": "FORTINET_FORTIANALYZER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fortinet FortiEDR",
+    "IngestLabel": "FORTINET_FORTIEDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fortinet FortiNAC",
+    "IngestLabel": "FORTINET_FORTINAC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Fortinet Web Application Firewall",
+    "IngestLabel": "FORTINET_FORTIWEB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "GCP_NETWORK_CONNECTIVITY",
+    "IngestLabel": "GCP_NETWORK_CONNECTIVITY_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "GitHub",
+    "IngestLabel": "GITHUB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Gitlab",
+    "IngestLabel": "GITLAB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "GMAIL Logs",
+    "IngestLabel": "GMAIL_LOGS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "GMV Checker ATM Security",
+    "IngestLabel": "GMV_CHECKER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Google Cloud IAM Analysis",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Google Cloud Identity Context",
+    "IngestLabel": "CLOUD_IDENTITY_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Guardicore Centra",
+    "IngestLabel": "GUARDICORE_CENTRA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "HAProxy",
+    "IngestLabel": "HAPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Hashicorp Vault",
+    "IngestLabel": "HASHICORP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "HCL BigFix",
+    "IngestLabel": "HCL_BIGFIX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "HCNET Account Adapter Plus",
+    "IngestLabel": "HCNET_ACCOUNT_ADAPTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Hitachi Cloud Platform",
+    "IngestLabel": "HITACHI_CLOUD_PLATFORM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Honeyd",
+    "IngestLabel": "HONEYD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "HP Aruba(Clearpass)",
+    "IngestLabel": "CLEARPASS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "HP Procurve Switch",
+    "IngestLabel": "HP_PROCURVE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "HPE ILO",
+    "IngestLabel": "HPE_ILO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IAM Context",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM AS/400",
+    "IngestLabel": "IBM_AS400",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM CICS",
+    "IngestLabel": "IBM_CICS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM DataPower Gateway",
+    "IngestLabel": "IBM_DATAPOWER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM DB2",
+    "IngestLabel": "DB2_DB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Guardium",
+    "IngestLabel": "GUARDIUM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Informix",
+    "IngestLabel": "INFORMIX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Safenet",
+    "IngestLabel": "IBM_SAFENET",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Security Access Manager",
+    "IngestLabel": "IBM_SAM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Security QRadar SIEM",
+    "IngestLabel": "IBM_QRADAR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Security Verify",
+    "IngestLabel": "IBM_SECURITY_VERIFY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Security Verify SaaS",
+    "IngestLabel": "IBM_SECURITY_VERIFY_SAAS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Tivoli",
+    "IngestLabel": "IBM_TIVOLI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM Websphere Application Server",
+    "IngestLabel": "IBM_WEBSPHERE_APP_SERVER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "IBM z/OS",
+    "IngestLabel": "IBM_ZOS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "iBoss Proxy",
+    "IngestLabel": "IBOSS_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Illumio Core",
+    "IngestLabel": "ILLUMIO_CORE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Imperva",
+    "IngestLabel": "IMPERVA_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Imperva Advanced Bot Protection",
+    "IngestLabel": "IMPERVA_ABP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Imperva CEF",
+    "IngestLabel": "IMPERVA_CEF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Imperva Database",
+    "IngestLabel": "IMPERVA_DB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Imperva FlexProtect",
+    "IngestLabel": "IMPERVA_FLEXPROTECT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Imperva SecureSphere Management",
+    "IngestLabel": "IMPERVA_SECURESPHERE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Infoblox",
+    "IngestLabel": "INFOBLOX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Infoblox DHCP",
+    "IngestLabel": "INFOBLOX_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Infoblox DNS",
+    "IngestLabel": "INFOBLOX_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "InterSystems Cache",
+    "IngestLabel": "INTERSYSTEMS_CACHE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ionix",
+    "IngestLabel": "IONIX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ipswitch MOVEit Transfer",
+    "IngestLabel": "IPSWITCH_MOVEIT_TRANSFER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ipswitch SFTP",
+    "IngestLabel": "IPSWITCH_SFTP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ISC DHCP",
+    "IngestLabel": "ISC_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Island Browser logs",
+    "IngestLabel": "ISLAND_BROWSER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "JAMF CMDB",
+    "IngestLabel": "JAMF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Jamf Protect Alerts",
+    "IngestLabel": "JAMF_PROTECT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Jamf Protect Telemetry",
+    "IngestLabel": "JAMF_TELEMETRY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "JumpCloud Directory Insights",
+    "IngestLabel": "JUMPCLOUD_DIRECTORY_INSIGHTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Juniper",
+    "IngestLabel": "JUNIPER_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Juniper IPS",
+    "IngestLabel": "JUNIPER_IPS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Juniper Junos",
+    "IngestLabel": "JUNIPER_JUNOS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Juniper Mist",
+    "IngestLabel": "JUNIPER_MIST",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Juniper MX Router",
+    "IngestLabel": "JUNIPER_MX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Juniper Software Defined Wide Area Network",
+    "IngestLabel": "JUNIPER_SDWAN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kaspersky AV",
+    "IngestLabel": "KASPERSKY_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kea DHCP",
+    "IngestLabel": "KEA_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kemp Load Balancer",
+    "IngestLabel": "KEMP_LOADBALANCER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kisi Access Management",
+    "IngestLabel": "KISI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kolide Endpoint Security",
+    "IngestLabel": "KOLIDE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kong API Gateway",
+    "IngestLabel": "KONG_GATEWAY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kubernetes Audit",
+    "IngestLabel": "KUBERNETES_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kubernetes Audit Azure",
+    "IngestLabel": "KUBERNETES_AUDIT_AZURE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kubernetes Auth Proxy",
+    "IngestLabel": "KUBERNETES_AUTH_PROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kubernetes Node",
+    "IngestLabel": "KUBERNETES_NODE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Kyriba Treasury Management",
+    "IngestLabel": "KYRIBA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Layer7 SiteMinder",
+    "IngestLabel": "SITEMINDER_SSO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Lenel Onguard Badge Management",
+    "IngestLabel": "LENEL_ONGUARD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "LimaCharlie",
+    "IngestLabel": "LIMACHARLIE_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Linux Auditing System (AuditD)",
+    "IngestLabel": "AUDITD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Linux DHCP",
+    "IngestLabel": "LINUX_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Linux Sysmon",
+    "IngestLabel": "LINUX_SYSMON",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "macOS Endpoint Security",
+    "IngestLabel": "MACOS_ENDPOINT_SECURITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ManageEngine AD360",
+    "IngestLabel": "MANAGE_ENGINE_AD360",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ManageEngine ADAudit Plus",
+    "IngestLabel": "ADAUDIT_PLUS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ManageEngine Reporter Plus",
+    "IngestLabel": "MANAGE_ENGINE_REPORTER_PLUS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee DLP",
+    "IngestLabel": "MCAFEE_DLP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee Enterprise Security Manager",
+    "IngestLabel": "MCAFEE_ESM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee ePolicy Orchestrator",
+    "IngestLabel": "MCAFEE_EPO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee IPS",
+    "IngestLabel": "MCAFEE_IPS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee MVISION CASB",
+    "IngestLabel": "MCAFEE_MVISION_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee Skyhigh CASB",
+    "IngestLabel": "MCAFEE_SKYHIGH_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee Unified Cloud Edge",
+    "IngestLabel": "MCAFEE_UCE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee Web Gateway",
+    "IngestLabel": "MCAFEE_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "McAfee Web Protection",
+    "IngestLabel": "MCAFEE_WEB_PROTECTION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Medigate IoT",
+    "IngestLabel": "MEDIGATE_IOT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Men and Mice DNS",
+    "IngestLabel": "MENANDMICE_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Menlo Security",
+    "IngestLabel": "MENLO_SECURITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft AD",
+    "IngestLabel": "WINDOWS_AD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft AD FS",
+    "IngestLabel": "ADFS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft ATA",
+    "IngestLabel": "MICROSOFT_ATA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Azure Activity",
+    "IngestLabel": "AZURE_ACTIVITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Azure NSG Flow",
+    "IngestLabel": "AZURE_NSG_FLOW",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Azure Resource",
+    "IngestLabel": "AZURE_RESOURCE_LOGS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft CASB",
+    "IngestLabel": "MICROSOFT_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Defender For Cloud",
+    "IngestLabel": "MICROSOFT_DEFENDER_CLOUD_ALERTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Defender for Endpoint",
+    "IngestLabel": "MICROSOFT_DEFENDER_ENDPOINT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Defender for Identity",
+    "IngestLabel": "MICROSOFT_DEFENDER_IDENTITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Exchange",
+    "IngestLabel": "EXCHANGE_MAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Graph API Alerts",
+    "IngestLabel": "MICROSOFT_GRAPH_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft IIS",
+    "IngestLabel": "IIS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Intune",
+    "IngestLabel": "AZURE_MDM_INTUNE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Powershell",
+    "IngestLabel": "POWERSHELL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft Sentinel",
+    "IngestLabel": "MICROSOFT_SENTINEL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Microsoft SQL Server",
+    "IngestLabel": "MICROSOFT_SQL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Mimecast",
+    "IngestLabel": "MIMECAST_MAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "MISP Threat Intelligence",
+    "IngestLabel": "MISP_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Mobileiron",
+    "IngestLabel": "MOBILEIRON",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Mongo Database",
+    "IngestLabel": "MONGO_DB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "MySQL",
+    "IngestLabel": "MYSQL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Nasuni File Services Platform",
+    "IngestLabel": "NASUNI_FILE_SERVICES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Neosec",
+    "IngestLabel": "NEOSEC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Net Suite",
+    "IngestLabel": "NET_SUITE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "NetApp ONTAP",
+    "IngestLabel": "NETAPP_ONTAP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "NetApp SAN",
+    "IngestLabel": "NETAPP_SAN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Netfilter IPtables",
+    "IngestLabel": "NETFILTER_IPTABLES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Netscout",
+    "IngestLabel": "ARBOR_EDGE_DEFENSE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Netscout Arbor Sightline",
+    "IngestLabel": "ARBOR_SIGHTLINE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Netscout OCI",
+    "IngestLabel": "NETSCOUT_OCI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Netskope",
+    "IngestLabel": "NETSKOPE_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Netskope Web Proxy",
+    "IngestLabel": "NETSKOPE_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "NGINX",
+    "IngestLabel": "NGINX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "NIMBLE OS",
+    "IngestLabel": "NIMBLE_OS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Nokia VitalQIP",
+    "IngestLabel": "VITALQIP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Nucleus Asset Metadata",
+    "IngestLabel": "NUCLEUS_ASSET",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Nucleus Unified Vulnerability Management",
+    "IngestLabel": "NUCLEUS_VULNERABILITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Nutanix Prism",
+    "IngestLabel": "NUTANIX_PRISM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "NXLog Manager",
+    "IngestLabel": "NXLOG_MANAGER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Nyansa Events",
+    "IngestLabel": "NYANSA_EVENTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Office 365",
+    "IngestLabel": "OFFICE_365",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Office 365 Message Trace",
+    "IngestLabel": "OFFICE_365_MESSAGETRACE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Okera Dynamic Access Platform",
+    "IngestLabel": "OKERA_DAP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Okta",
+    "IngestLabel": "OKTA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Okta Access Gateway",
+    "IngestLabel": "OKTA_ACCESS_GATEWAY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Okta User Context",
+    "IngestLabel": "OKTA_USER_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "OneLogin",
+    "IngestLabel": "ONELOGIN_SSO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Onfido",
+    "IngestLabel": "ONFIDO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Open Cybersecurity Schema Framework (OCSF)",
+    "IngestLabel": "OCSF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Open LDAP",
+    "IngestLabel": "OPENLDAP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "OpenSSH",
+    "IngestLabel": "OPENSSH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "OpenVPN",
+    "IngestLabel": "OPEN_VPN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Oracle",
+    "IngestLabel": "ORACLE_DB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Oracle Cloud Infrastructure Audit Logs",
+    "IngestLabel": "OCI_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Oracle Cloud Infrastructure VCN Flow Logs",
+    "IngestLabel": "OCI_FLOW",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Oracle Unified Directory",
+    "IngestLabel": "ORACLE_OUD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ordr IoT",
+    "IngestLabel": "ORDR_IOT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "OSQuery",
+    "IngestLabel": "OSQUERY_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "OSSEC",
+    "IngestLabel": "OSSEC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Cortex XDR Alerts",
+    "IngestLabel": "CORTEX_XDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Cortex XDR Events",
+    "IngestLabel": "PAN_CORTEX_XDR_EVENTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Networks Firewall",
+    "IngestLabel": "PAN_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Networks Traps",
+    "IngestLabel": "PAN_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Panorama",
+    "IngestLabel": "PAN_PANORAMA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Prisma Access",
+    "IngestLabel": "PAN_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Prisma Cloud",
+    "IngestLabel": "PAN_PRISMA_CLOUD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Palo Alto Prisma Cloud Alert payload",
+    "IngestLabel": "PAN_PRISMA_CA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "PAN Autofocus",
+    "IngestLabel": "PAN_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Passive DNS",
+    "IngestLabel": "PASSIVE_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Peplink Firewall",
+    "IngestLabel": "PEPLINK_FW",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "pfSense",
+    "IngestLabel": "PFSENSE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ping Federate",
+    "IngestLabel": "PING_FEDERATE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ping Identity",
+    "IngestLabel": "PING",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Pivotal",
+    "IngestLabel": "PIVOTAL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "PostFix Mail",
+    "IngestLabel": "POSTFIX_MAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Preempt Alert",
+    "IngestLabel": "PREEMPT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Preempt Auth",
+    "IngestLabel": "PREEMPT_AUTH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Proofpoint Email Filter",
+    "IngestLabel": "PROOFPOINT_MAIL_FILTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Proofpoint Observeit",
+    "IngestLabel": "OBSERVEIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Proofpoint On Demand",
+    "IngestLabel": "PROOFPOINT_ON_DEMAND",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ProofPoint Secure Email Relay",
+    "IngestLabel": "PROOFPOINT_SER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Proofpoint Tap Alerts",
+    "IngestLabel": "PROOFPOINT_MAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Proofpoint Threat Response",
+    "IngestLabel": "PROOFPOINT_TRAP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Proofpoint Web Browser Isolation",
+    "IngestLabel": "PROOFPOINT_WEB_BROWSER_ISOLATION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Pulse Secure",
+    "IngestLabel": "PULSE_SECURE_VPN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Qualys Asset Context",
+    "IngestLabel": "QUALYS_ASSET_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Qualys Continuous Monitoring",
+    "IngestLabel": "QUALYS_CONTINUOUS_MONITORING",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Qualys Scan",
+    "IngestLabel": "QUALYS_SCAN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Qualys Virtual Scanner",
+    "IngestLabel": "QUALYS_VIRTUAL_SCANNER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Qualys VM",
+    "IngestLabel": "QUALYS_VM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Quest Active Directory",
+    "IngestLabel": "QUEST_AD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Radware Web Application Firewall",
+    "IngestLabel": "RADWARE_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Rapid7",
+    "IngestLabel": "RAPID7_NEXPOSE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Rapid7 Insight",
+    "IngestLabel": "RAPID7_INSIGHT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Recorded Future",
+    "IngestLabel": "RECORDED_FUTURE_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Red Canary",
+    "IngestLabel": "REDCANARY_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Red Hat Directory Server LDAP",
+    "IngestLabel": "REDHAT_DIRECTORY_SERVER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Red Hat OpenShift",
+    "IngestLabel": "REDHAT_OPENSHIFT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Resource Manager Context",
+    "IngestLabel": "GCP_RESOURCE_MANAGER_CONTEXT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "RH-ISAC",
+    "IngestLabel": "RH_ISAC_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ribbon Analytics Platform",
+    "IngestLabel": "RIBBON_ANALYTICS_PLATFORM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Riverbed Steelhead",
+    "IngestLabel": "STEELHEAD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "RSA",
+    "IngestLabel": "RSA_AUTH_MANAGER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "RSA NetWitness",
+    "IngestLabel": "RSA_NETWITNESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Rubrik",
+    "IngestLabel": "RUBRIK",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ruckus Networks",
+    "IngestLabel": "RUCKUS_WIRELESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SailPoint IAM",
+    "IngestLabel": "SAILPOINT_IAM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Salesforce",
+    "IngestLabel": "SALESFORCE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Samba SMBD",
+    "IngestLabel": "SMBD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SAP Netweaver",
+    "IngestLabel": "SAP_NETWEAVER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Saviynt Enterprise Identity Cloud",
+    "IngestLabel": "SAVIYNT_EIP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SecureAuth",
+    "IngestLabel": "SECUREAUTH_SSO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SecureLink",
+    "IngestLabel": "SECURELINK",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Security Command Center Threat",
+    "IngestLabel": "N/A",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Semperis DSP",
+    "IngestLabel": "SEMPERIS_DSP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sendmail",
+    "IngestLabel": "SENDMAIL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sentinelone Alerts",
+    "IngestLabel": "SENTINELONE_ALERT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SentinelOne Deep Visibility",
+    "IngestLabel": "SENTINEL_DV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SentinelOne EDR",
+    "IngestLabel": "SENTINEL_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Seqrite Endpoint Security (EPS)",
+    "IngestLabel": "SEQRITE_ENDPOINT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ServiceNow CMDB",
+    "IngestLabel": "SERVICENOW_CMDB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ServiceNow Security",
+    "IngestLabel": "SERVICENOW_SECURITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Shibboleth IDP",
+    "IngestLabel": "SHIBBOLETH_IDP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Shrubbery TACACS+",
+    "IngestLabel": "SHRUBBERY_TACACS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sierra Wireless",
+    "IngestLabel": "SIERRA_WIRELESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Signal Sciences WAF",
+    "IngestLabel": "SIGNAL_SCIENCES_WAF",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Silverfort Authentication Platform",
+    "IngestLabel": "SILVERFORT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SiteMinder Web Access Management",
+    "IngestLabel": "CA_SSO_WEB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Skybox Firewall Assurance",
+    "IngestLabel": "SKYBOX_FIREWALL_ASSURANCE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Slack Audit",
+    "IngestLabel": "SLACK_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Snare System Diagnostic Logs",
+    "IngestLabel": "SNARE_SOLUTIONS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Snoopy Logger",
+    "IngestLabel": "SNOOPY_LOGGER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Snort",
+    "IngestLabel": "SNORT_IDS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Snyk Group level audit Logs",
+    "IngestLabel": "SNYK_SDLC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Solarwinds Kiwi Syslog Server",
+    "IngestLabel": "SOLARWINDS_KSS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SonicWall",
+    "IngestLabel": "SONIC_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos AV",
+    "IngestLabel": "SOPHOS_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos Capsule8",
+    "IngestLabel": "SOPHOS_CAPSULE8",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos Central",
+    "IngestLabel": "SOPHOS_CENTRAL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos DHCP",
+    "IngestLabel": "SOPHOS_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos Firewall (Next Gen)",
+    "IngestLabel": "SOPHOS_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos Intercept EDR",
+    "IngestLabel": "SOPHOS_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sophos UTM",
+    "IngestLabel": "SOPHOS_UTM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "SOTI MobiControl",
+    "IngestLabel": "SOTI_MOBICONTROL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sourcefire",
+    "IngestLabel": "SOURCEFIRE_IDS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Splunk Platform",
+    "IngestLabel": "SPLUNK",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Squid Web Proxy",
+    "IngestLabel": "SQUID_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Static IP",
+    "IngestLabel": "ASSET_STATIC_IP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Stealthbits Audit",
+    "IngestLabel": "STEALTHBITS_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Stealthbits Defend",
+    "IngestLabel": "STEALTHBITS_DEFEND",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Stealthbits PAM",
+    "IngestLabel": "STEALTHBITS_PAM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "STIX Threat Intelligence",
+    "IngestLabel": "STIX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Stormshield Firewall",
+    "IngestLabel": "STORMSHIELD_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Strong Swan VPN",
+    "IngestLabel": "STRONGSWAN_VPN",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Suricata EVE",
+    "IngestLabel": "SURICATA_EVE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Suricata IDS",
+    "IngestLabel": "SURICATA_IDS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec CloudSOC CASB",
+    "IngestLabel": "SYMANTEC_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec DLP",
+    "IngestLabel": "SYMANTEC_DLP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec EDR",
+    "IngestLabel": "SYMANTEC_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec Endpoint Protection",
+    "IngestLabel": "SEP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec Event export",
+    "IngestLabel": "SYMANTEC_EVENT_EXPORT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec VIP Gateway",
+    "IngestLabel": "SYMANTEC_VIP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec Web Isolation",
+    "IngestLabel": "SYMANTEC_WEB_ISOLATION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Symantec Web Security Service",
+    "IngestLabel": "SYMANTEC_WSS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Sysdig",
+    "IngestLabel": "SYSDIG",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Asset",
+    "IngestLabel": "TANIUM_ASSET",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Audit",
+    "IngestLabel": "TANIUM_AUDIT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Comply",
+    "IngestLabel": "TANIUM_COMPLY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Discover",
+    "IngestLabel": "TANIUM_DISCOVER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Insight",
+    "IngestLabel": "TANIUM_INSIGHT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Integrity Monitor",
+    "IngestLabel": "TANIUM_INTEGRITY_MONITOR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Patch",
+    "IngestLabel": "TANIUM_PATCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Reveal",
+    "IngestLabel": "TANIUM_REVEAL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Stream",
+    "IngestLabel": "TANIUM_TH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tanium Threat Response",
+    "IngestLabel": "TANIUM_THREAT_RESPONSE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "TCPWave DDI",
+    "IngestLabel": "TCPWAVE_DDI",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "TeamViewer",
+    "IngestLabel": "TEAMVIEWER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Teleport Access Plane",
+    "IngestLabel": "TELEPORT_ACCESS_PLANE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tenable Security Center",
+    "IngestLabel": "TENABLE_SC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "tenable.io",
+    "IngestLabel": "TENABLE_IO",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Thales Digital Identity and Security",
+    "IngestLabel": "THALES_DIS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Thales Luna Hardware Security Module",
+    "IngestLabel": "THALES_LUNA_HSM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Thales MFA",
+    "IngestLabel": "THALES_MFA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Thales Vormetric",
+    "IngestLabel": "VORMETRIC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Thinkst Canary",
+    "IngestLabel": "THINKST_CANARY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ThreatConnect",
+    "IngestLabel": "THREATCONNECT_IOC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ThreatLocker Platform",
+    "IngestLabel": "THREATLOCKER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Thycotic",
+    "IngestLabel": "THYCOTIC",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Trend Micro AV",
+    "IngestLabel": "TRENDMICRO_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Trend Micro Deep Security",
+    "IngestLabel": "TRENDMICRO_DEEP_SECURITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Trend Micro Vision One",
+    "IngestLabel": "TRENDMICRO_VISION_ONE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "TrendMicro Web Proxy",
+    "IngestLabel": "TRENDMICRO_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Tripwire",
+    "IngestLabel": "TRIPWIRE_FIM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Trustwave SEC MailMarshal",
+    "IngestLabel": "MAILMARSHAL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Trustwave webmarshal",
+    "IngestLabel": "WEBMARSHAL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Ubiquiti UniFi Switch",
+    "IngestLabel": "UBIQUITI_SWITCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Unbound DNS",
+    "IngestLabel": "UNBOUND_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Unifi AP",
+    "IngestLabel": "UNIFI_AP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Unix system",
+    "IngestLabel": "NIX_SYSTEM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Uptycs EDR",
+    "IngestLabel": "UPTYCS_EDR",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VanDyke SFTP",
+    "IngestLabel": "VANDYKE_SFTP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Varonis",
+    "IngestLabel": "VARONIS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Vectra Detect",
+    "IngestLabel": "VECTRA_DETECT",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Vectra Stream",
+    "IngestLabel": "VECTRA_STREAM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Versa Firewall",
+    "IngestLabel": "VERSA_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware AirWatch",
+    "IngestLabel": "AIRWATCH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware ESXi",
+    "IngestLabel": "VMWARE_ESX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware Horizon",
+    "IngestLabel": "VMWARE_HORIZON",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware NSX",
+    "IngestLabel": "VMWARE_NSX",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware Tanzu Kubernetes Grid",
+    "IngestLabel": "VMWARE_TANZU",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware vCenter",
+    "IngestLabel": "VMWARE_VCENTER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware vRealize Suite",
+    "IngestLabel": "VMWARE_VREALIZE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VMware Workspace ONE",
+    "IngestLabel": "VMWARE_WORKSPACE_ONE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VPC Flow Logs",
+    "IngestLabel": "GCP_VPC_FLOW",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "VyOS Open Source Router",
+    "IngestLabel": "VYOS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "WatchGuard",
+    "IngestLabel": "WATCHGUARD",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Wazuh",
+    "IngestLabel": "WAZUH",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Applocker",
+    "IngestLabel": "WINDOWS_APPLOCKER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Defender ATP",
+    "IngestLabel": "WINDOWS_DEFENDER_ATP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Defender AV",
+    "IngestLabel": "WINDOWS_DEFENDER_AV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows DHCP",
+    "IngestLabel": "WINDOWS_DHCP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows DNS",
+    "IngestLabel": "WINDOWS_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Event",
+    "IngestLabel": "WINEVTLOG",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Event (XML)",
+    "IngestLabel": "WINEVTLOG_XML",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Firewall",
+    "IngestLabel": "WINDOWS_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Hyper-V",
+    "IngestLabel": "WINDOWS_HYPERV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Network Policy Server",
+    "IngestLabel": "WINDOWS_NET_POLICY_SERVER",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Windows Sysmon",
+    "IngestLabel": "WINDOWS_SYSMON",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "WordPress",
+    "IngestLabel": "WORDPRESS_CMS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workday",
+    "IngestLabel": "WORKDAY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace Activities",
+    "IngestLabel": "WORKSPACE_ACTIVITY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace Alerts",
+    "IngestLabel": "WORKSPACE_ALERTS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace ChromeOS Devices",
+    "IngestLabel": "WORKSPACE_CHROMEOS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace Groups",
+    "IngestLabel": "WORKSPACE_GROUPS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace Mobile Devices",
+    "IngestLabel": "WORKSPACE_MOBILE",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace Privileges",
+    "IngestLabel": "WORKSPACE_PRIVILEGES",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Workspace Users",
+    "IngestLabel": "WORKSPACE_USERS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Yubico OTP",
+    "IngestLabel": "YUBICO_OTP",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zeek JSON",
+    "IngestLabel": "BRO_JSON",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zeek TSV",
+    "IngestLabel": "BRO_TSV",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zimperium",
+    "IngestLabel": "ZIMPERIUM",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zix Email Encryption",
+    "IngestLabel": "ZIX_EMAIL_ENCRYPTION",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zoom Operation Logs",
+    "IngestLabel": "ZOOM_OPERATION_LOGS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zscaler",
+    "IngestLabel": "ZSCALER_WEBPROXY",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zscaler CASB",
+    "IngestLabel": "ZSCALER_CASB",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ZScaler DNS",
+    "IngestLabel": "ZSCALER_DNS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zscaler Internet Access Audit Logs",
+    "IngestLabel": "ZSCALER_INTERNET_ACCESS",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ZScaler NGFW",
+    "IngestLabel": "ZSCALER_FIREWALL",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "Zscaler Private Access",
+    "IngestLabel": "ZSCALER_ZPA",
+    "Parsed": "Yes"
+  },
+  {
+    "Product": "ZScaler VPN",
+    "IngestLabel": "ZSCALER_VPN",
+    "Parsed": "Yes"
+  }
+]
